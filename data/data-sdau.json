@@ -8,10 +8,38 @@
                     "CellCard":"+85516677462",
                     "MetPone":"+85516677462"
                 }
+            },
+            "Ambulanse":{
+                "HotLne PN":{
+                    "Smart":"+85516677462",
+                    "CellCard":"+85516677462",
+                    "MetPone":"+85516677462"
+                }
+            },
+            "FireFighter":{
+                "HotLne PN":{
+                    "Smart":"+85516677462",
+                    "CellCard":"+85516677462",
+                    "MetPone":"+85516677462"
+                }
             }
         },
         "Bieghompil Village": {
             "Police":{
+                "HotLne PN":{
+                    "Smart":"+85516677462",
+                    "CellCard":"+85516677462",
+                    "MetPone":"+85516677462"
+                }
+            },
+            "Ambulanse":{
+                "HotLne PN":{
+                    "Smart":"+85516677462",
+                    "CellCard":"+85516677462",
+                    "MetPone":"+85516677462"
+                }
+            },
+            "FireFighter":{
                 "HotLne PN":{
                     "Smart":"+85516677462",
                     "CellCard":"+85516677462",

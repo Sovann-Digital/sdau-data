@@ -1,56 +1,88 @@
 [
     {
-        "Date": "8/18/2023",
-        "Communes": [
+      "Date": "8/18/2023",
+      "Communes": [
+        {
+          "name": "កោះកុង",
+          "villages": [
             {
-                "name": "កោះកុង",
-                "villages": [
-                    {
-                        "name": "ភូមិស្ដៅ",
-                        "command": "sdau",
-                        "Services": [
-                            {
-                                "name": "ឡានសង្គ្រោះបន្ទាន់",
-                                "command": "ambulance_sdau",
-                                "phonenumber": {
-                                    "hotline": "+85516677462",
-                                    "telegram": "+85516677462"
-                                }
-                            },
-                            {
-                                "name": "ឡានប៉ូលីស",
-                                "command": "police_sdau",
-                                "phonenumber": {
-                                    "hotline": "+85516677462",
-                                    "telegram": "+85516677462"
-                                }
-                            }
-                        ]
+              "name": "ភូមិស្ដៅ",
+              "command": "sdau",
+              "Services": [
+                {
+                        "name": "ឡានសង្គ្រោះបន្ទាន់",
+                        "command": "ambulance_sdau",
+                        "phonenumber":{
+                            "hotline":"+85516677462",
+                            "telegram":"+85516677462"
+                        }
                     },
                     {
-                        "name": "ភូមិបឹងអ៊ំពិល",
-                        "command": "beng",
-                        "Services": [
-                            {
-                                "name": "ឡានសង្គ្រោះបន្ទាន់",
-                                "command": "ambulance_beng",
-                                "phonenumber": {
-                                    "hotline": "+85516677462",
-                                    "telegram": "+85516677462"
-                                }
-                            },
-                            {
-                                "name": "ឡានប៉ូលីស",
-                                "command": "police_beng",
-                                "phonenumber": {
-                                    "hotline": "+85516677462",
-                                    "telegram": "+85516677462"
-                                }
-                            }
-                        ]
+                        "name": "ឡានប៉ូលីស",
+                        "command": "police_sdau",
+                        "phonenumber":{
+                            "hotline":"+85516677462",
+                            "telegram":"+85516677462"
+                        }
+                    },
+                    {
+                        "name": "ឡានពន្លត់អគ្គិភ័យ",
+                        "command": "firefighter_sdau",
+                        "phonenumber":{
+                            "hotline":"+85516677462",
+                            "telegram":"+85516677462"
+                        }
+                    },
+                    {
+                        "name": "លេខសម្រាប់ទាក់ទងនិងអាជ្ញាធរដែនដី",
+                        "command": "government_sdau",
+                        "phonenumber":{
+                            "hotline":"+85516677462",
+                            "telegram":"+85516677462"
+                        }
                     }
-                ]
+              ]
+            },
+            {
+              "name": "ភូមិបឹងអ៊ំពិល",
+              "command": "beng",
+              "Services": [
+                {
+                    "name": "ឡានសង្គ្រោះបន្ទាន់",
+                    "command": "ambulance_sdau",
+                    "phonenumber":{
+                        "hotline":"+85516677462",
+                        "telegram":"+85516677462"
+                    }
+                },
+                {
+                    "name": "ឡានប៉ូលីស",
+                    "command": "police_sdau",
+                    "phonenumber":{
+                        "hotline":"+85516677462",
+                        "telegram":"+85516677462"
+                    }
+                },
+                {
+                    "name": "ឡានពន្លត់អគ្គិភ័យ",
+                    "command": "firefighter_sdau",
+                    "phonenumber":{
+                        "hotline":"+85516677462",
+                        "telegram":"+85516677462"
+                    }
+                },
+                {
+                    "name": "លេខសម្រាប់ទាក់ទងនិងអាជ្ញាធរដែនដី",
+                    "command": "government_sdau",
+                    "phonenumber":{
+                        "hotline":"+85516677462",
+                        "telegram":"+85516677462"
+                    }
+                }
+              ]
             }
-        ]
+          ]
+        }
+      ]
     }
-]
+  ]

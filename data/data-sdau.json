@@ -8,19 +8,35 @@
                 "Services": [
                     {
                         "name": "ឡានសង្គ្រោះបន្ទាន់",
-                        "command": "ambulance_sdau"
+                        "command": "ambulance_sdau",
+                        "phonenumber":{
+                            "hotline":"+85516677462",
+                            "telegram":"+85516677462"
+                        }
                     },
                     {
                         "name": "ឡានប៉ូលីស",
-                        "command": "police_sdau"
+                        "command": "police_sdau",
+                        "phonenumber":{
+                            "hotline":"+85516677462",
+                            "telegram":"+85516677462"
+                        }
                     },
                     {
                         "name": "ឡានពន្លត់អគ្គិភ័យ",
-                        "command": "firefighter_sdau"
+                        "command": "firefighter_sdau",
+                        "phonenumber":{
+                            "hotline":"+85516677462",
+                            "telegram":"+85516677462"
+                        }
                     },
                     {
                         "name": "លេខសម្រាប់ទាក់ទងនិងអាជ្ញាធរដែនដី",
-                        "command": "government_sdau"
+                        "command": "government_sdau",
+                        "phonenumber":{
+                            "hotline":"+85516677462",
+                            "telegram":"+85516677462"
+                        }
                     }
                 ]
             },
@@ -30,19 +46,35 @@
                 "Services": [
                     {
                         "name": "ឡានសង្គ្រោះបន្ទាន់",
-                        "command": "ambulance_beng"
+                        "command": "ambulance_beng",
+                        "phonenumber":{
+                            "hotline":"+85516677462",
+                            "telegram":"+85516677462"
+                        }
                     },
                     {
                         "name": "ឡានប៉ូលីស",
-                        "command": "police_beng"
+                        "command": "police_beng",
+                        "phonenumber":{
+                            "hotline":"+85516677462",
+                            "telegram":"+85516677462"
+                        }
                     },
                     {
                         "name": "ឡានពន្លត់អគ្គិភ័យ",
-                        "command": "firefighter_beng"
+                        "command": "firefighter_beng",
+                        "phonenumber":{
+                            "hotline":"+85516677462",
+                            "telegram":"+85516677462"
+                        }
                     },
                     {
                         "name": "លេខសម្រាប់ទាក់ទងនិងអាជ្ញាធរដែនដី",
-                        "command": "government_beng"
+                        "command": "government_beng",
+                        "phonenumber":{
+                            "hotline":"+85516677462",
+                            "telegram":"+85516677462"
+                        }
                     }
                 ]
             }

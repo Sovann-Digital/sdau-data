@@ -3,44 +3,28 @@
       "Date": "8/18/2023",
       "Communes": [
         {
-          "name": "កោះកុង",
+          "name": "ឃុំស្ដៅ",
           "villages": [
             {
               "name": "ភូមិស្ដៅ",
-              "command": "sdau",
+              "command": "sdau_village1",
               "Services": [
                 {
-                        "name": "ឡានសង្គ្រោះបន្ទាន់",
-                        "command": "ambulance_sdau",
-                        "phonenumber":{
-                            "hotline":"+85516677462",
-                            "telegram":"+85516677462"
-                        }
-                    },
-                    {
-                        "name": "ឡានប៉ូលីស",
-                        "command": "police_sdau",
-                        "phonenumber":{
-                            "hotline":"+85516677462",
-                            "telegram":"+85516677462"
-                        }
-                    },
-                    {
-                        "name": "ឡានពន្លត់អគ្គិភ័យ",
-                        "command": "firefighter_sdau",
-                        "phonenumber":{
-                            "hotline":"+85516677462",
-                            "telegram":"+85516677462"
-                        }
-                    },
-                    {
-                        "name": "លេខសម្រាប់ទាក់ទងនិងអាជ្ញាធរដែនដី",
-                        "command": "government_sdau",
-                        "phonenumber":{
-                            "hotline":"+85516677462",
-                            "telegram":"+85516677462"
-                        }
+                    "name": "សេវាកម្មទូរសព្ទភ្នំពេញ",
+                    "command": "service1_sdau",
+                    "phonenumber":{
+                        "hotline":"+855123456789",
+                        "telegram":"+855123456789"
                     }
+                },
+                {
+                    "name": "សេវាកម្មអាជ្ញាធរនិងសង្គ្រោះ",
+                    "command": "service2_sdau",
+                    "phonenumber":{
+                        "hotline":"+855987654321",
+                        "telegram":"+855987654321"
+                    }
+                }
               ]
             },
             {
@@ -48,41 +32,93 @@
               "command": "beng",
               "Services": [
                 {
-                    "name": "ឡានសង្គ្រោះបន្ទាន់",
-                    "command": "ambulance_sdau",
+                    "name": "សេវាកម្មទូរសព្ទភ្នំពេញ",
+                    "command": "service1_beng",
                     "phonenumber":{
-                        "hotline":"+85516677462",
-                        "telegram":"+85516677462"
+                        "hotline":"+855123456789",
+                        "telegram":"+855123456789"
                     }
                 },
                 {
-                    "name": "ឡានប៉ូលីស",
-                    "command": "police_sdau",
+                    "name": "សេវាកម្មអាជ្ញាធរនិងសង្គ្រោះ",
+                    "command": "service2_beng",
                     "phonenumber":{
-                        "hotline":"+85516677462",
-                        "telegram":"+85516677462"
+                        "hotline":"+855987654321",
+                        "telegram":"+855987654321"
+                    }
+                }
+              ]
+            },
+            {
+              "name": "ភូមិបឹងថ្មី",
+              "command": "beng_tmai",
+              "Services": [
+                {
+                    "name": "សេវាកម្មទូរសព្ទភ្នំពេញ",
+                    "command": "service1_beng_tmai",
+                    "phonenumber":{
+                        "hotline":"+855123456789",
+                        "telegram":"+855123456789"
                     }
                 },
                 {
-                    "name": "ឡានពន្លត់អគ្គិភ័យ",
-                    "command": "firefighter_sdau",
+                    "name": "សេវាកម្មអាជ្ញាធរនិងសង្គ្រោះ",
+                    "command": "service2_beng_tmai",
                     "phonenumber":{
-                        "hotline":"+85516677462",
-                        "telegram":"+85516677462"
+                        "hotline":"+855987654321",
+                        "telegram":"+855987654321"
+                    }
+                }
+              ]
+            },
+            // Add more villages...
+            {
+              "name": "ភូមិស្ម័យ",
+              "command": "sdau_village7",
+              "Services": [
+                {
+                    "name": "សេវាកម្មទូរសព្ទភ្នំពេញ",
+                    "command": "service1_sdau_village7",
+                    "phonenumber":{
+                        "hotline":"+855123456789",
+                        "telegram":"+855123456789"
                     }
                 },
                 {
-                    "name": "លេខសម្រាប់ទាក់ទងនិងអាជ្ញាធរដែនដី",
-                    "command": "government_sdau",
+                    "name": "សេវាកម្មអាជ្ញាធរនិងសង្គ្រោះ",
+                    "command": "service2_sdau_village7",
                     "phonenumber":{
-                        "hotline":"+85516677462",
-                        "telegram":"+85516677462"
+                        "hotline":"+855987654321",
+                        "telegram":"+855987654321"
+                    }
+                }
+              ]
+            },
+            {
+              "name": "ភូមិក្រហម",
+              "command": "sdau_village8",
+              "Services": [
+                {
+                    "name": "សេវាកម្មទូរសព្ទភ្នំពេញ",
+                    "command": "service1_sdau_village8",
+                    "phonenumber":{
+                        "hotline":"+855123456789",
+                        "telegram":"+855123456789"
+                    }
+                },
+                {
+                    "name": "សេវាកម្មអាជ្ញាធរនិងសង្គ្រោះ",
+                    "command": "service2_sdau_village8",
+                    "phonenumber":{
+                        "hotline":"+855987654321",
+                        "telegram":"+855987654321"
                     }
                 }
               ]
             }
+            // Add more villages...
           ]
         }
       ]
     }
-  ]
+]

@@ -1,83 +1,171 @@
 [
     {
         "Date": "8/18/2023",
-        "DATA": [
+        "Communes": [
             {
-                "command": "sdau",
-                "Name": "ភូមិស្ដៅ",
-                "Services": [
+                "name": "កោះកុង",
+                "villages": [
                     {
-                        "name": "ឡានសង្គ្រោះបន្ទាន់",
-                        "command": "ambulance_sdau",
-                        "phonenumber":{
-                            "hotline":"+85516677462",
-                            "telegram":"+85516677462"
-                        }
+                        "name": "ភូមិស្ដៅ",
+                        "command": "sdau",
+                        "Services": [
+                            {
+                                "name": "ឡានសង្គ្រោះបន្ទាន់",
+                                "command": "ambulance_sdau",
+                                "phonenumber": {
+                                    "hotline": "+85516677462",
+                                    "telegram": "+85516677462"
+                                }
+                            },
+                            {
+                                "name": "ឡានប៉ូលីស",
+                                "command": "police_sdau",
+                                "phonenumber": {
+                                    "hotline": "+85516677462",
+                                    "telegram": "+85516677462"
+                                }
+                            },
+                            {
+                                "name": "ឡានពន្លត់អគ្គិភ័យ",
+                                "command": "firefighter_sdau",
+                                "phonenumber": {
+                                    "hotline": "+85516677462",
+                                    "telegram": "+85516677462"
+                                }
+                            },
+                            {
+                                "name": "លេខសម្រាប់ទាក់ទងនិងអាជ្ញាធរដែនដី",
+                                "command": "government_sdau",
+                                "phonenumber": {
+                                    "hotline": "+85516677462",
+                                    "telegram": "+85516677462"
+                                }
+                            }
+                        ]
                     },
                     {
-                        "name": "ឡានប៉ូលីស",
-                        "command": "police_sdau",
-                        "phonenumber":{
-                            "hotline":"+85516677462",
-                            "telegram":"+85516677462"
-                        }
-                    },
-                    {
-                        "name": "ឡានពន្លត់អគ្គិភ័យ",
-                        "command": "firefighter_sdau",
-                        "phonenumber":{
-                            "hotline":"+85516677462",
-                            "telegram":"+85516677462"
-                        }
-                    },
-                    {
-                        "name": "លេខសម្រាប់ទាក់ទងនិងអាជ្ញាធរដែនដី",
-                        "command": "government_sdau",
-                        "phonenumber":{
-                            "hotline":"+85516677462",
-                            "telegram":"+85516677462"
-                        }
+                        "name": "ភូមិបឹងអ៊ំពិល",
+                        "command": "beng",
+                        "Services": [
+                            {
+                                "name": "ឡានសង្គ្រោះបន្ទាន់",
+                                "command": "ambulance_beng",
+                                "phonenumber": {
+                                    "hotline": "+85516677462",
+                                    "telegram": "+85516677462"
+                                }
+                            },
+                            {
+                                "name": "ឡានប៉ូលីស",
+                                "command": "police_beng",
+                                "phonenumber": {
+                                    "hotline": "+85516677462",
+                                    "telegram": "+85516677462"
+                                }
+                            },
+                            {
+                                "name": "ឡានពន្លត់អគ្គិភ័យ",
+                                "command": "firefighter_beng",
+                                "phonenumber": {
+                                    "hotline": "+85516677462",
+                                    "telegram": "+85516677462"
+                                }
+                            },
+                            {
+                                "name": "លេខសម្រាប់ទាក់ទងនិងអាជ្ញាធរដែនដី",
+                                "command": "government_beng",
+                                "phonenumber": {
+                                    "hotline": "+85516677462",
+                                    "telegram": "+85516677462"
+                                }
+                            }
+                        ]
                     }
                 ]
             },
             {
-                "command": "beng",
-                "Name": "ភូមិបឹងអ៊ំពិល",
-                "Services": [
+                "name": "កំពង់ធំ",
+                "villages": [
                     {
-                        "name": "ឡានសង្គ្រោះបន្ទាន់",
-                        "command": "ambulance_beng",
-                        "phonenumber":{
-                            "hotline":"+85516677462",
-                            "telegram":"+85516677462"
-                        }
+                        "name": "ភូមិខ្សាច់ទ្រូង",
+                        "command": "khsachtrorng",
+                        "Services": [
+                            {
+                                "name": "ឡានសង្គ្រោះបន្ទាន់",
+                                "command": "ambulance_khsachtrorng",
+                                "phonenumber": {
+                                    "hotline": "+85516677462",
+                                    "telegram": "+85516677462"
+                                }
+                            },
+                            {
+                                "name": "ឡានប៉ូលីស",
+                                "command": "police_khsachtrorng",
+                                "phonenumber": {
+                                    "hotline": "+85516677462",
+                                    "telegram": "+85516677462"
+                                }
+                            },
+                            {
+                                "name": "ឡានពន្លត់អគ្គិភ័យ",
+                                "command": "firefighter_khsachtrorng",
+                                "phonenumber": {
+                                    "hotline": "+85516677462",
+                                    "telegram": "+85516677462"
+                                }
+                            },
+                            {
+                                "name": "លេខសម្រាប់ទាក់ទងនិងអាជ្ញាធរដែនដី",
+                                "command": "government_khsachtrorng",
+                                "phonenumber": {
+                                    "hotline": "+85516677462",
+                                    "telegram": "+85516677462"
+                                }
+                            }
+                        ]
                     },
                     {
-                        "name": "ឡានប៉ូលីស",
-                        "command": "police_beng",
-                        "phonenumber":{
-                            "hotline":"+85516677462",
-                            "telegram":"+85516677462"
-                        }
-                    },
-                    {
-                        "name": "ឡានពន្លត់អគ្គិភ័យ",
-                        "command": "firefighter_beng",
-                        "phonenumber":{
-                            "hotline":"+85516677462",
-                            "telegram":"+85516677462"
-                        }
-                    },
-                    {
-                        "name": "លេខសម្រាប់ទាក់ទងនិងអាជ្ញាធរដែនដី",
-                        "command": "government_beng",
-                        "phonenumber":{
-                            "hotline":"+85516677462",
-                            "telegram":"+85516677462"
-                        }
+                        "name": "ភូមិស្រែកែវ",
+                        "command": "srakeaov",
+                        "Services": [
+                            {
+                                "name": "ឡានសង្គ្រោះបន្ទាន់",
+                                "command": "ambulance_srakeaov",
+                                "phonenumber": {
+                                    "hotline": "+85516677462",
+                                    "telegram": "+85516677462"
+                                }
+                            },
+                            {
+                                "name": "ឡានប៉ូលីស",
+                                "command": "police_srakeaov",
+                                "phonenumber": {
+                                    "hotline": "+85516677462",
+                                    "telegram": "+85516677462"
+                                }
+                            },
+                            {
+                                "name": "ឡានពន្លត់អគ្គិភ័យ",
+                                "command": "firefighter_srakeaov",
+                                "phonenumber": {
+                                    "hotline": "+85516677462",
+                                    "telegram": "+85516677462"
+                                }
+                            },
+                            {
+                                "name": "លេខសម្រាប់ទាក់ទងនិងអាជ្ញាធរដែនដី",
+                                "command": "government_srakeaov",
+                                "phonenumber": {
+                                    "hotline": "+85516677462",
+                                    "telegram": "+85516677462"
+                                }
+                            }
+                        ]
                     }
+                    // Add more villages in the communes
                 ]
             }
+            // Add more communes here
         ]
     }
 ]

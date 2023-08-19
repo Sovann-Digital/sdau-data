@@ -1,55 +1,61 @@
-[{
-    "Date":"8/18/2023",
-    "DATA":{
-        "0": {
-            "command":"sdau",
-            "Name":"ភូមិស្ដៅ",
-            "Police":{
-                "HotLne PN":{
-                    "Smart":"+85516677462",
-                    "CellCard":"+85516677462",
-                    "MetFone":"+85516677462"
+[
+    {
+        "Date": "8/18/2023",
+        "DATA": {
+            "0": {
+                "command": "sdau",
+                "Name": "ភូមិស្ដៅ",
+                "Services": {
+                    "Police": {
+                        "Hotline PN": {
+                            "Smart": "+85516677462",
+                            "CellCard": "+85516677462",
+                            "MetFone": "+85516677462"
+                        }
+                    },
+                    "Ambulance": {
+                        "Hotline PN": {
+                            "Smart": "+85516677462",
+                            "CellCard": "+85516677462",
+                            "MetFone": "+85516677462"
+                        }
+                    },
+                    "FireFighter": {
+                        "Hotline PN": {
+                            "Smart": "+85516677462",
+                            "CellCard": "+85516677462",
+                            "MetFone": "+85516677462"
+                        }
+                    }
                 }
             },
-            "Ambulanse":{
-                "HotLne PN":{
-                    "Smart":"+85516677462",
-                    "CellCard":"+85516677462",
-                    "MetFone":"+85516677462"
-                }
-            },
-            "FireFighter":{
-                "HotLne PN":{
-                    "Smart":"+85516677462",
-                    "CellCard":"+85516677462",
-                    "MetFone":"+85516677462"
-                }
-            }
-        },
-        "1": {
-            "Police":{
-                "command":"beng",
-                "Name":"ភូមិបឹងអ៊ំពិល",
-                "HotLne PN":{
-                    "Smart":"+85516677462",
-                    "CellCard":"+85516677462",
-                    "MetFone":"+85516677462"
-                }
-            },
-            "Ambulanse":{
-                "HotLne PN":{
-                    "Smart":"+85516677462",
-                    "CellCard":"+85516677462",
-                    "MetFone":"+85516677462"
-                }
-            },
-            "FireFighter":{
-                "HotLne PN":{
-                    "Smart":"+85516677462",
-                    "CellCard":"+85516677462",
-                    "MetFone":"+85516677462"
+            "1": {
+                "command": "beng",
+                "Name": "ភូមិបឹងអ៊ំពិល",
+                "Services": {
+                    "Police": {
+                        "Hotline PN": {
+                            "Smart": "+85516677462",
+                            "CellCard": "+85516677462",
+                            "MetFone": "+85516677462"
+                        }
+                    },
+                    "Ambulance": {
+                        "Hotline PN": {
+                            "Smart": "+85516677462",
+                            "CellCard": "+85516677462",
+                            "MetFone": "+85516677462"
+                        }
+                    },
+                    "FireFighter": {
+                        "Hotline PN": {
+                            "Smart": "+85516677462",
+                            "CellCard": "+85516677462",
+                            "MetFone": "+85516677462"
+                        }
+                    }
                 }
             }
         }
     }
-}]
+]

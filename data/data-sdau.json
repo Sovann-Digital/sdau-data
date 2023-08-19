@@ -48,6 +48,234 @@
               "command": "beng",
               "Services": [
                 {
+                        "name": "ឡានសង្គ្រោះបន្ទាន់",
+                        "command": "ambulance_sdau",
+                        "phonenumber":{
+                            "hotline":"+85516677462",
+                            "telegram":"+85516677462"
+                        }
+                    },
+                    {
+                        "name": "ឡានប៉ូលីស",
+                        "command": "police_sdau",
+                        "phonenumber":{
+                            "hotline":"+85516677462",
+                            "telegram":"+85516677462"
+                        }
+                    },
+                    {
+                        "name": "ឡានពន្លត់អគ្គិភ័យ",
+                        "command": "firefighter_sdau",
+                        "phonenumber":{
+                            "hotline":"+85516677462",
+                            "telegram":"+85516677462"
+                        }
+                    },
+                    {
+                        "name": "លេខសម្រាប់ទាក់ទងនិងអាជ្ញាធរដែនដី",
+                        "command": "government_sdau",
+                        "phonenumber":{
+                            "hotline":"+85516677462",
+                            "telegram":"+85516677462"
+                        }
+                    }
+              ]
+            },
+            {
+              "name": "ភូមិបាណង់",
+              "command": "banang",
+              "Services": [
+                {
+                        "name": "ឡានសង្គ្រោះបន្ទាន់",
+                        "command": "ambulance_sdau",
+                        "phonenumber":{
+                            "hotline":"+85516677462",
+                            "telegram":"+85516677462"
+                        }
+                    },
+                    {
+                        "name": "ឡានប៉ូលីស",
+                        "command": "police_sdau",
+                        "phonenumber":{
+                            "hotline":"+85516677462",
+                            "telegram":"+85516677462"
+                        }
+                    },
+                    {
+                        "name": "ឡានពន្លត់អគ្គិភ័យ",
+                        "command": "firefighter_sdau",
+                        "phonenumber":{
+                            "hotline":"+85516677462",
+                            "telegram":"+85516677462"
+                        }
+                    },
+                    {
+                        "name": "លេខសម្រាប់ទាក់ទងនិងអាជ្ញាធរដែនដី",
+                        "command": "government_sdau",
+                        "phonenumber":{
+                            "hotline":"+85516677462",
+                            "telegram":"+85516677462"
+                        }
+                    }
+              ]
+            },
+            {
+              "name": "ភូមិចំការល្មុត",
+              "command": "lmut",
+              "Services": [
+                {
+                        "name": "ឡានសង្គ្រោះបន្ទាន់",
+                        "command": "ambulance_sdau",
+                        "phonenumber":{
+                            "hotline":"+85516677462",
+                            "telegram":"+85516677462"
+                        }
+                    },
+                    {
+                        "name": "ឡានប៉ូលីស",
+                        "command": "police_sdau",
+                        "phonenumber":{
+                            "hotline":"+85516677462",
+                            "telegram":"+85516677462"
+                        }
+                    },
+                    {
+                        "name": "ឡានពន្លត់អគ្គិភ័យ",
+                        "command": "firefighter_sdau",
+                        "phonenumber":{
+                            "hotline":"+85516677462",
+                            "telegram":"+85516677462"
+                        }
+                    },
+                    {
+                        "name": "លេខសម្រាប់ទាក់ទងនិងអាជ្ញាធរដែនដី",
+                        "command": "government_sdau",
+                        "phonenumber":{
+                            "hotline":"+85516677462",
+                            "telegram":"+85516677462"
+                        }
+                    }
+              ]
+            },
+            {
+              "name": "ភូមិដង្គត់",
+              "command": "dangkot",
+              "Services": [
+                {
+                        "name": "ឡានសង្គ្រោះបន្ទាន់",
+                        "command": "ambulance_sdau",
+                        "phonenumber":{
+                            "hotline":"+85516677462",
+                            "telegram":"+85516677462"
+                        }
+                    },
+                    {
+                        "name": "ឡានប៉ូលីស",
+                        "command": "police_sdau",
+                        "phonenumber":{
+                            "hotline":"+85516677462",
+                            "telegram":"+85516677462"
+                        }
+                    },
+                    {
+                        "name": "ឡានពន្លត់អគ្គិភ័យ",
+                        "command": "firefighter_sdau",
+                        "phonenumber":{
+                            "hotline":"+85516677462",
+                            "telegram":"+85516677462"
+                        }
+                    },
+                    {
+                        "name": "លេខសម្រាប់ទាក់ទងនិងអាជ្ញាធរដែនដី",
+                        "command": "government_sdau",
+                        "phonenumber":{
+                            "hotline":"+85516677462",
+                            "telegram":"+85516677462"
+                        }
+                    }
+              ]
+            },
+            {
+              "name": "ភូមិដូនមាយ",
+              "command": "meay",
+              "Services": [
+                {
+                        "name": "ឡានសង្គ្រោះបន្ទាន់",
+                        "command": "ambulance_sdau",
+                        "phonenumber":{
+                            "hotline":"+85516677462",
+                            "telegram":"+85516677462"
+                        }
+                    },
+                    {
+                        "name": "ឡានប៉ូលីស",
+                        "command": "police_sdau",
+                        "phonenumber":{
+                            "hotline":"+85516677462",
+                            "telegram":"+85516677462"
+                        }
+                    },
+                    {
+                        "name": "ឡានពន្លត់អគ្គិភ័យ",
+                        "command": "firefighter_sdau",
+                        "phonenumber":{
+                            "hotline":"+85516677462",
+                            "telegram":"+85516677462"
+                        }
+                    },
+                    {
+                        "name": "លេខសម្រាប់ទាក់ទងនិងអាជ្ញាធរដែនដី",
+                        "command": "government_sdau",
+                        "phonenumber":{
+                            "hotline":"+85516677462",
+                            "telegram":"+85516677462"
+                        }
+                    }
+              ]
+            },
+            {
+              "name": "ភូមិបរិបូរណ៌",
+              "command": "baribour",
+              "Services": [
+                {
+                        "name": "ឡានសង្គ្រោះបន្ទាន់",
+                        "command": "ambulance_sdau",
+                        "phonenumber":{
+                            "hotline":"+85516677462",
+                            "telegram":"+85516677462"
+                        }
+                    },
+                    {
+                        "name": "ឡានប៉ូលីស",
+                        "command": "police_sdau",
+                        "phonenumber":{
+                            "hotline":"+85516677462",
+                            "telegram":"+85516677462"
+                        }
+                    },
+                    {
+                        "name": "ឡានពន្លត់អគ្គិភ័យ",
+                        "command": "firefighter_sdau",
+                        "phonenumber":{
+                            "hotline":"+85516677462",
+                            "telegram":"+85516677462"
+                        }
+                    },
+                    {
+                        "name": "លេខសម្រាប់ទាក់ទងនិងអាជ្ញាធរដែនដី",
+                        "command": "government_sdau",
+                        "phonenumber":{
+                            "hotline":"+85516677462",
+                            "telegram":"+85516677462"
+                        }
+                    }
+              ]
+            },
+            {
+              "name": "ភូមិគោកជ័រ",
+              "command": "kouk",
+              "Services": [
+                {
                     "name": "ឡានសង្គ្រោះបន្ទាន់",
                     "command": "ambulance_sdau",
                     "phonenumber":{

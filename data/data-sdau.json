@@ -24,22 +24,6 @@
                                     "hotline": "+85516677462",
                                     "telegram": "+85516677462"
                                 }
-                            },
-                            {
-                                "name": "ឡានពន្លត់អគ្គិភ័យ",
-                                "command": "firefighter_sdau",
-                                "phonenumber": {
-                                    "hotline": "+85516677462",
-                                    "telegram": "+85516677462"
-                                }
-                            },
-                            {
-                                "name": "លេខសម្រាប់ទាក់ទងនិងអាជ្ញាធរដែនដី",
-                                "command": "government_sdau",
-                                "phonenumber": {
-                                    "hotline": "+85516677462",
-                                    "telegram": "+85516677462"
-                                }
                             }
                         ]
                     },
@@ -58,22 +42,6 @@
                             {
                                 "name": "ឡានប៉ូលីស",
                                 "command": "police_beng",
-                                "phonenumber": {
-                                    "hotline": "+85516677462",
-                                    "telegram": "+85516677462"
-                                }
-                            },
-                            {
-                                "name": "ឡានពន្លត់អគ្គិភ័យ",
-                                "command": "firefighter_beng",
-                                "phonenumber": {
-                                    "hotline": "+85516677462",
-                                    "telegram": "+85516677462"
-                                }
-                            },
-                            {
-                                "name": "លេខសម្រាប់ទាក់ទងនិងអាជ្ញាធរដែនដី",
-                                "command": "government_beng",
                                 "phonenumber": {
                                     "hotline": "+85516677462",
                                     "telegram": "+85516677462"
@@ -105,22 +73,6 @@
                                     "hotline": "+85516677462",
                                     "telegram": "+85516677462"
                                 }
-                            },
-                            {
-                                "name": "ឡានពន្លត់អគ្គិភ័យ",
-                                "command": "firefighter_khsachtrorng",
-                                "phonenumber": {
-                                    "hotline": "+85516677462",
-                                    "telegram": "+85516677462"
-                                }
-                            },
-                            {
-                                "name": "លេខសម្រាប់ទាក់ទងនិងអាជ្ញាធរដែនដី",
-                                "command": "government_khsachtrorng",
-                                "phonenumber": {
-                                    "hotline": "+85516677462",
-                                    "telegram": "+85516677462"
-                                }
                             }
                         ]
                     },
@@ -143,29 +95,12 @@
                                     "hotline": "+85516677462",
                                     "telegram": "+85516677462"
                                 }
-                            },
-                            {
-                                "name": "ឡានពន្លត់អគ្គិភ័យ",
-                                "command": "firefighter_srakeaov",
-                                "phonenumber": {
-                                    "hotline": "+85516677462",
-                                    "telegram": "+85516677462"
-                                }
-                            },
-                            {
-                                "name": "លេខសម្រាប់ទាក់ទងនិងអាជ្ញាធរដែនដី",
-                                "command": "government_srakeaov",
-                                "phonenumber": {
-                                    "hotline": "+85516677462",
-                                    "telegram": "+85516677462"
-                                }
                             }
                         ]
                     }
-                    // Add more villages in the communes
                 ]
             }
-            // Add more communes here
+            // Add more communes and villages here
         ]
     }
 ]

@@ -2,6 +2,7 @@
     "Date":"8/18/2023",
     "DATA":{
         "Sdau Village": {
+            "Name":"ភូមិស្ដៅ",
             "Police":{
                 "HotLne PN":{
                     "Smart":"+85516677462",
@@ -26,6 +27,7 @@
         },
         "Bieghompil Village": {
             "Police":{
+                "Name":"ភូមិបឹងអ៊ំពិល",
                 "HotLne PN":{
                     "Smart":"+85516677462",
                     "CellCard":"+85516677462",

@@ -50,57 +50,7 @@
                         ]
                     }
                 ]
-            },
-            {
-                "name": "កំពង់ធំ",
-                "villages": [
-                    {
-                        "name": "ភូមិខ្សាច់ទ្រូង",
-                        "command": "khsachtrorng",
-                        "Services": [
-                            {
-                                "name": "ឡានសង្គ្រោះបន្ទាន់",
-                                "command": "ambulance_khsachtrorng",
-                                "phonenumber": {
-                                    "hotline": "+85516677462",
-                                    "telegram": "+85516677462"
-                                }
-                            },
-                            {
-                                "name": "ឡានប៉ូលីស",
-                                "command": "police_khsachtrorng",
-                                "phonenumber": {
-                                    "hotline": "+85516677462",
-                                    "telegram": "+85516677462"
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "name": "ភូមិស្រែកែវ",
-                        "command": "srakeaov",
-                        "Services": [
-                            {
-                                "name": "ឡានសង្គ្រោះបន្ទាន់",
-                                "command": "ambulance_srakeaov",
-                                "phonenumber": {
-                                    "hotline": "+85516677462",
-                                    "telegram": "+85516677462"
-                                }
-                            },
-                            {
-                                "name": "ឡានប៉ូលីស",
-                                "command": "police_srakeaov",
-                                "phonenumber": {
-                                    "hotline": "+85516677462",
-                                    "telegram": "+85516677462"
-                                }
-                            }
-                        ]
-                    }
-                ]
             }
-            // Add more communes and villages here
         ]
     }
 ]

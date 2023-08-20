@@ -1,4 +1,4 @@
-name: Node.js Bot
+name: Run Node.js Bot
 
 on:
   push:
@@ -7,7 +7,7 @@ on:
 
 jobs:
   run-bot:
-    runs-on: ubuntu-latest  # You can choose a different runner if needed
+    runs-on: ubuntu-latest
 
     steps:
       - name: Checkout code
@@ -19,7 +19,8 @@ jobs:
           node-version: 14  # Change this to your preferred Node.js version
 
       - name: Install dependencies
-        run: npm install
+        run: |
+          npm install telegraf axios fs nodemon
 
-      - name: Run bot
-        run: node bot.js  # Change this to the appropriate command to run your bot
+      - name: Run bot script
+        run: node bot.js

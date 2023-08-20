@@ -1,0 +1,25 @@
+name: Node.js Bot
+
+on:
+  push:
+    branches:
+      - main  # Change this to the appropriate branch name
+
+jobs:
+  run-bot:
+    runs-on: ubuntu-latest  # You can choose a different runner if needed
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: 14  # Change this to your preferred Node.js version
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run bot
+        run: node bot.js  # Change this to the appropriate command to run your bot

@@ -12,54 +12,70 @@
                 {
                         "name": "ឡានសង្គ្រោះបន្ទាន់",
                         "command": "ambulance_sdau",
-                        "phonenumber":{
-                            "hotline":"+85516677462",
-                            "telegram":"+85516677462"
-                        },
-                        "location": {
-                          "latitude": 11.5560,
-                          "longitude": 104.9282,
-                          "address": "Ambulance Station, Sdau Village"
-                        }
+                        "phone": {
+                  "hotline": {
+                    "smart": "+855987654321",
+                    "cellcard": "+855876543210",
+                    "metfone": "+855765432109"
+                  },
+                  "telegram": "@ambulance_sdau_bot"
+                },
+                "location": {
+                  "latitude": 11.5560,
+                  "longitude": 104.9282,
+                  "address": "Ambulance Station, Sdau Village"
+                }
                     },
                     {
                         "name": "ឡានប៉ូលីស",
                         "command": "police_sdau",
-                        "phonenumber":{
-                            "hotline":"+85516677462",
-                            "telegram":"+85516677462"
-                        },
-                        "location": {
-                          "latitude": 11.5560,
-                          "longitude": 104.9282,
-                          "address": "Ambulance Station, Sdau Village"
-                        }
+                        "phone": {
+                  "hotline": {
+                    "smart": "+855987654321",
+                    "cellcard": "+855876543210",
+                    "metfone": "+855765432109"
+                  },
+                  "telegram": "@ambulance_sdau_bot"
+                },
+                "location": {
+                  "latitude": 11.5560,
+                  "longitude": 104.9282,
+                  "address": "Ambulance Station, Sdau Village"
+                }
                     },
                     {
                         "name": "ឡានពន្លត់អគ្គិភ័យ",
                         "command": "firefighter_sdau",
-                        "phonenumber":{
-                            "hotline":"+85516677462",
-                            "telegram":"+85516677462"
-                        },
-                        "location": {
-                          "latitude": 11.5560,
-                          "longitude": 104.9282,
-                          "address": "Ambulance Station, Sdau Village"
-                        }
+                        "phone": {
+                  "hotline": {
+                    "smart": "+855987654321",
+                    "cellcard": "+855876543210",
+                    "metfone": "+855765432109"
+                  },
+                  "telegram": "@ambulance_sdau_bot"
+                },
+                "location": {
+                  "latitude": 11.5560,
+                  "longitude": 104.9282,
+                  "address": "Ambulance Station, Sdau Village"
+                }
                     },
                     {
                         "name": "លេខសម្រាប់ទាក់ទងនិងអាជ្ញាធរដែនដី",
                         "command": "government_sdau",
-                        "phonenumber":{
-                            "hotline":"+85516677462",
-                            "telegram":"+85516677462"
-                        },
-                        "location": {
-                          "latitude": 11.5560,
-                          "longitude": 104.9282,
-                          "address": "Ambulance Station, Sdau Village"
-                        }
+                        "phone": {
+                  "hotline": {
+                    "smart": "+855987654321",
+                    "cellcard": "+855876543210",
+                    "metfone": "+855765432109"
+                  },
+                  "telegram": "@ambulance_sdau_bot"
+                },
+                "location": {
+                  "latitude": 11.5560,
+                  "longitude": 104.9282,
+                  "address": "Ambulance Station, Sdau Village"
+                }
                     }
               ]
             },
@@ -70,54 +86,70 @@
                 {
                         "name": "ឡានសង្គ្រោះបន្ទាន់",
                         "command": "ambulance_sdau",
-                        "phonenumber":{
-                            "hotline":"+85516677462",
-                            "telegram":"+85516677462"
-                        },
-                        "location": {
-                          "latitude": 11.5560,
-                          "longitude": 104.9282,
-                          "address": "Ambulance Station, Sdau Village"
-                        }
+                        "phone": {
+                  "hotline": {
+                    "smart": "+855987654321",
+                    "cellcard": "+855876543210",
+                    "metfone": "+855765432109"
+                  },
+                  "telegram": "@ambulance_sdau_bot"
+                },
+                "location": {
+                  "latitude": 11.5560,
+                  "longitude": 104.9282,
+                  "address": "Ambulance Station, Sdau Village"
+                }
                     },
                     {
                         "name": "ឡានប៉ូលីស",
                         "command": "police_sdau",
-                        "phonenumber":{
-                            "hotline":"+85516677462",
-                            "telegram":"+85516677462"
-                        },
-                        "location": {
-                          "latitude": 11.5560,
-                          "longitude": 104.9282,
-                          "address": "Ambulance Station, Sdau Village"
-                        }
+                        "phone": {
+                  "hotline": {
+                    "smart": "+855987654321",
+                    "cellcard": "+855876543210",
+                    "metfone": "+855765432109"
+                  },
+                  "telegram": "@ambulance_sdau_bot"
+                },
+                "location": {
+                  "latitude": 11.5560,
+                  "longitude": 104.9282,
+                  "address": "Ambulance Station, Sdau Village"
+                }
                     },
                     {
                         "name": "ឡានពន្លត់អគ្គិភ័យ",
                         "command": "firefighter_sdau",
-                        "phonenumber":{
-                            "hotline":"+85516677462",
-                            "telegram":"+85516677462"
-                        },
-                        "location": {
-                          "latitude": 11.5560,
-                          "longitude": 104.9282,
-                          "address": "Ambulance Station, Sdau Village"
-                        }
+                        "phone": {
+                  "hotline": {
+                    "smart": "+855987654321",
+                    "cellcard": "+855876543210",
+                    "metfone": "+855765432109"
+                  },
+                  "telegram": "@ambulance_sdau_bot"
+                },
+                "location": {
+                  "latitude": 11.5560,
+                  "longitude": 104.9282,
+                  "address": "Ambulance Station, Sdau Village"
+                }
                     },
                     {
                         "name": "លេខសម្រាប់ទាក់ទងនិងអាជ្ញាធរដែនដី",
                         "command": "government_sdau",
-                        "phonenumber":{
-                            "hotline":"+85516677462",
-                            "telegram":"+85516677462"
-                        },
-                        "location": {
-                          "latitude": 11.5560,
-                          "longitude": 104.9282,
-                          "address": "Ambulance Station, Sdau Village"
-                        }
+                        "phone": {
+                  "hotline": {
+                    "smart": "+855987654321",
+                    "cellcard": "+855876543210",
+                    "metfone": "+855765432109"
+                  },
+                  "telegram": "@ambulance_sdau_bot"
+                },
+                "location": {
+                  "latitude": 11.5560,
+                  "longitude": 104.9282,
+                  "address": "Ambulance Station, Sdau Village"
+                }
                     }
               ]
             },
@@ -128,54 +160,70 @@
                 {
                         "name": "ឡានសង្គ្រោះបន្ទាន់",
                         "command": "ambulance_sdau",
-                        "phonenumber":{
-                            "hotline":"+85516677462",
-                            "telegram":"+85516677462"
-                        },
-                        "location": {
-                          "latitude": 11.5560,
-                          "longitude": 104.9282,
-                          "address": "Ambulance Station, Sdau Village"
-                        }
+                        "phone": {
+                  "hotline": {
+                    "smart": "+855987654321",
+                    "cellcard": "+855876543210",
+                    "metfone": "+855765432109"
+                  },
+                  "telegram": "@ambulance_sdau_bot"
+                },
+                "location": {
+                  "latitude": 11.5560,
+                  "longitude": 104.9282,
+                  "address": "Ambulance Station, Sdau Village"
+                }
                     },
                     {
                         "name": "ឡានប៉ូលីស",
                         "command": "police_sdau",
-                        "phonenumber":{
-                            "hotline":"+85516677462",
-                            "telegram":"+85516677462"
-                        },
-                        "location": {
-                          "latitude": 11.5560,
-                          "longitude": 104.9282,
-                          "address": "Ambulance Station, Sdau Village"
-                        }
+                        "phone": {
+                  "hotline": {
+                    "smart": "+855987654321",
+                    "cellcard": "+855876543210",
+                    "metfone": "+855765432109"
+                  },
+                  "telegram": "@ambulance_sdau_bot"
+                },
+                "location": {
+                  "latitude": 11.5560,
+                  "longitude": 104.9282,
+                  "address": "Ambulance Station, Sdau Village"
+                }
                     },
                     {
                         "name": "ឡានពន្លត់អគ្គិភ័យ",
                         "command": "firefighter_sdau",
-                        "phonenumber":{
-                            "hotline":"+85516677462",
-                            "telegram":"+85516677462"
-                        },
-                        "location": {
-                          "latitude": 11.5560,
-                          "longitude": 104.9282,
-                          "address": "Ambulance Station, Sdau Village"
-                        }
+                        "phone": {
+                  "hotline": {
+                    "smart": "+855987654321",
+                    "cellcard": "+855876543210",
+                    "metfone": "+855765432109"
+                  },
+                  "telegram": "@ambulance_sdau_bot"
+                },
+                "location": {
+                  "latitude": 11.5560,
+                  "longitude": 104.9282,
+                  "address": "Ambulance Station, Sdau Village"
+                }
                     },
                     {
                         "name": "លេខសម្រាប់ទាក់ទងនិងអាជ្ញាធរដែនដី",
                         "command": "government_sdau",
-                        "phonenumber":{
-                            "hotline":"+85516677462",
-                            "telegram":"+85516677462"
-                        },
-                        "location": {
-                          "latitude": 11.5560,
-                          "longitude": 104.9282,
-                          "address": "Ambulance Station, Sdau Village"
-                        }
+                        "phone": {
+                  "hotline": {
+                    "smart": "+855987654321",
+                    "cellcard": "+855876543210",
+                    "metfone": "+855765432109"
+                  },
+                  "telegram": "@ambulance_sdau_bot"
+                },
+                "location": {
+                  "latitude": 11.5560,
+                  "longitude": 104.9282,
+                  "address": "Ambulance Station, Sdau Village"
+                }
                     }
               ]
             },
@@ -186,54 +234,70 @@
                 {
                         "name": "ឡានសង្គ្រោះបន្ទាន់",
                         "command": "ambulance_sdau",
-                        "phonenumber":{
-                            "hotline":"+85516677462",
-                            "telegram":"+85516677462"
-                        },
-                        "location": {
-                          "latitude": 11.5560,
-                          "longitude": 104.9282,
-                          "address": "Ambulance Station, Sdau Village"
-                        }
+                        "phone": {
+                  "hotline": {
+                    "smart": "+855987654321",
+                    "cellcard": "+855876543210",
+                    "metfone": "+855765432109"
+                  },
+                  "telegram": "@ambulance_sdau_bot"
+                },
+                "location": {
+                  "latitude": 11.5560,
+                  "longitude": 104.9282,
+                  "address": "Ambulance Station, Sdau Village"
+                }
                     },
                     {
                         "name": "ឡានប៉ូលីស",
                         "command": "police_sdau",
-                        "phonenumber":{
-                            "hotline":"+85516677462",
-                            "telegram":"+85516677462"
-                        },
-                        "location": {
-                          "latitude": 11.5560,
-                          "longitude": 104.9282,
-                          "address": "Ambulance Station, Sdau Village"
-                        }
+                        "phone": {
+                  "hotline": {
+                    "smart": "+855987654321",
+                    "cellcard": "+855876543210",
+                    "metfone": "+855765432109"
+                  },
+                  "telegram": "@ambulance_sdau_bot"
+                },
+                "location": {
+                  "latitude": 11.5560,
+                  "longitude": 104.9282,
+                  "address": "Ambulance Station, Sdau Village"
+                }
                     },
                     {
                         "name": "ឡានពន្លត់អគ្គិភ័យ",
                         "command": "firefighter_sdau",
-                        "phonenumber":{
-                            "hotline":"+85516677462",
-                            "telegram":"+85516677462"
-                        },
-                        "location": {
-                          "latitude": 11.5560,
-                          "longitude": 104.9282,
-                          "address": "Ambulance Station, Sdau Village"
-                        }
+                        "phone": {
+                  "hotline": {
+                    "smart": "+855987654321",
+                    "cellcard": "+855876543210",
+                    "metfone": "+855765432109"
+                  },
+                  "telegram": "@ambulance_sdau_bot"
+                },
+                "location": {
+                  "latitude": 11.5560,
+                  "longitude": 104.9282,
+                  "address": "Ambulance Station, Sdau Village"
+                }
                     },
                     {
                         "name": "លេខសម្រាប់ទាក់ទងនិងអាជ្ញាធរដែនដី",
                         "command": "government_sdau",
-                        "phonenumber":{
-                            "hotline":"+85516677462",
-                            "telegram":"+85516677462"
-                        },
-                        "location": {
-                          "latitude": 11.5560,
-                          "longitude": 104.9282,
-                          "address": "Ambulance Station, Sdau Village"
-                        }
+                        "phone": {
+                  "hotline": {
+                    "smart": "+855987654321",
+                    "cellcard": "+855876543210",
+                    "metfone": "+855765432109"
+                  },
+                  "telegram": "@ambulance_sdau_bot"
+                },
+                "location": {
+                  "latitude": 11.5560,
+                  "longitude": 104.9282,
+                  "address": "Ambulance Station, Sdau Village"
+                }
                     }
               ]
             },
@@ -244,54 +308,70 @@
                 {
                         "name": "ឡានសង្គ្រោះបន្ទាន់",
                         "command": "ambulance_sdau",
-                        "phonenumber":{
-                            "hotline":"+85516677462",
-                            "telegram":"+85516677462"
-                        },
-                        "location": {
-                          "latitude": 11.5560,
-                          "longitude": 104.9282,
-                          "address": "Ambulance Station, Sdau Village"
-                        }
+                        "phone": {
+                  "hotline": {
+                    "smart": "+855987654321",
+                    "cellcard": "+855876543210",
+                    "metfone": "+855765432109"
+                  },
+                  "telegram": "@ambulance_sdau_bot"
+                },
+                "location": {
+                  "latitude": 11.5560,
+                  "longitude": 104.9282,
+                  "address": "Ambulance Station, Sdau Village"
+                }
                     },
                     {
                         "name": "ឡានប៉ូលីស",
                         "command": "police_sdau",
-                        "phonenumber":{
-                            "hotline":"+85516677462",
-                            "telegram":"+85516677462"
-                        },
-                        "location": {
-                          "latitude": 11.5560,
-                          "longitude": 104.9282,
-                          "address": "Ambulance Station, Sdau Village"
-                        }
+                        "phone": {
+                  "hotline": {
+                    "smart": "+855987654321",
+                    "cellcard": "+855876543210",
+                    "metfone": "+855765432109"
+                  },
+                  "telegram": "@ambulance_sdau_bot"
+                },
+                "location": {
+                  "latitude": 11.5560,
+                  "longitude": 104.9282,
+                  "address": "Ambulance Station, Sdau Village"
+                }
                     },
                     {
                         "name": "ឡានពន្លត់អគ្គិភ័យ",
                         "command": "firefighter_sdau",
-                        "phonenumber":{
-                            "hotline":"+85516677462",
-                            "telegram":"+85516677462"
-                        },
-                        "location": {
-                          "latitude": 11.5560,
-                          "longitude": 104.9282,
-                          "address": "Ambulance Station, Sdau Village"
-                        }
+                        "phone": {
+                  "hotline": {
+                    "smart": "+855987654321",
+                    "cellcard": "+855876543210",
+                    "metfone": "+855765432109"
+                  },
+                  "telegram": "@ambulance_sdau_bot"
+                },
+                "location": {
+                  "latitude": 11.5560,
+                  "longitude": 104.9282,
+                  "address": "Ambulance Station, Sdau Village"
+                }
                     },
                     {
                         "name": "លេខសម្រាប់ទាក់ទងនិងអាជ្ញាធរដែនដី",
                         "command": "government_sdau",
-                        "phonenumber":{
-                            "hotline":"+85516677462",
-                            "telegram":"+85516677462"
-                        },
-                        "location": {
-                          "latitude": 11.5560,
-                          "longitude": 104.9282,
-                          "address": "Ambulance Station, Sdau Village"
-                        }
+                        "phone": {
+                  "hotline": {
+                    "smart": "+855987654321",
+                    "cellcard": "+855876543210",
+                    "metfone": "+855765432109"
+                  },
+                  "telegram": "@ambulance_sdau_bot"
+                },
+                "location": {
+                  "latitude": 11.5560,
+                  "longitude": 104.9282,
+                  "address": "Ambulance Station, Sdau Village"
+                }
                     }
               ]
             },
@@ -302,54 +382,70 @@
                 {
                         "name": "ឡានសង្គ្រោះបន្ទាន់",
                         "command": "ambulance_sdau",
-                        "phonenumber":{
-                            "hotline":"+85516677462",
-                            "telegram":"+85516677462"
-                        },
-                        "location": {
-                          "latitude": 11.5560,
-                          "longitude": 104.9282,
-                          "address": "Ambulance Station, Sdau Village"
-                        }
+                        "phone": {
+                  "hotline": {
+                    "smart": "+855987654321",
+                    "cellcard": "+855876543210",
+                    "metfone": "+855765432109"
+                  },
+                  "telegram": "@ambulance_sdau_bot"
+                },
+                "location": {
+                  "latitude": 11.5560,
+                  "longitude": 104.9282,
+                  "address": "Ambulance Station, Sdau Village"
+                }
                     },
                     {
                         "name": "ឡានប៉ូលីស",
                         "command": "police_sdau",
-                        "phonenumber":{
-                            "hotline":"+85516677462",
-                            "telegram":"+85516677462"
-                        },
-                        "location": {
-                          "latitude": 11.5560,
-                          "longitude": 104.9282,
-                          "address": "Ambulance Station, Sdau Village"
-                        }
+                        "phone": {
+                  "hotline": {
+                    "smart": "+855987654321",
+                    "cellcard": "+855876543210",
+                    "metfone": "+855765432109"
+                  },
+                  "telegram": "@ambulance_sdau_bot"
+                },
+                "location": {
+                  "latitude": 11.5560,
+                  "longitude": 104.9282,
+                  "address": "Ambulance Station, Sdau Village"
+                }
                     },
                     {
                         "name": "ឡានពន្លត់អគ្គិភ័យ",
                         "command": "firefighter_sdau",
-                        "phonenumber":{
-                            "hotline":"+85516677462",
-                            "telegram":"+85516677462"
-                        },
-                        "location": {
-                          "latitude": 11.5560,
-                          "longitude": 104.9282,
-                          "address": "Ambulance Station, Sdau Village"
-                        }
+                        "phone": {
+                  "hotline": {
+                    "smart": "+855987654321",
+                    "cellcard": "+855876543210",
+                    "metfone": "+855765432109"
+                  },
+                  "telegram": "@ambulance_sdau_bot"
+                },
+                "location": {
+                  "latitude": 11.5560,
+                  "longitude": 104.9282,
+                  "address": "Ambulance Station, Sdau Village"
+                }
                     },
                     {
                         "name": "លេខសម្រាប់ទាក់ទងនិងអាជ្ញាធរដែនដី",
                         "command": "government_sdau",
-                        "phonenumber":{
-                            "hotline":"+85516677462",
-                            "telegram":"+85516677462"
-                        },
-                        "location": {
-                          "latitude": 11.5560,
-                          "longitude": 104.9282,
-                          "address": "Ambulance Station, Sdau Village"
-                        }
+                        "phone": {
+                  "hotline": {
+                    "smart": "+855987654321",
+                    "cellcard": "+855876543210",
+                    "metfone": "+855765432109"
+                  },
+                  "telegram": "@ambulance_sdau_bot"
+                },
+                "location": {
+                  "latitude": 11.5560,
+                  "longitude": 104.9282,
+                  "address": "Ambulance Station, Sdau Village"
+                }
                     }
               ]
             },
@@ -360,54 +456,70 @@
                 {
                         "name": "ឡានសង្គ្រោះបន្ទាន់",
                         "command": "ambulance_sdau",
-                        "phonenumber":{
-                            "hotline":"+85516677462",
-                            "telegram":"+85516677462"
-                        },
-                        "location": {
-                          "latitude": 11.5560,
-                          "longitude": 104.9282,
-                          "address": "Ambulance Station, Sdau Village"
-                        }
+                        "phone": {
+                  "hotline": {
+                    "smart": "+855987654321",
+                    "cellcard": "+855876543210",
+                    "metfone": "+855765432109"
+                  },
+                  "telegram": "@ambulance_sdau_bot"
+                },
+                "location": {
+                  "latitude": 11.5560,
+                  "longitude": 104.9282,
+                  "address": "Ambulance Station, Sdau Village"
+                }
                     },
                     {
                         "name": "ឡានប៉ូលីស",
                         "command": "police_sdau",
-                        "phonenumber":{
-                            "hotline":"+85516677462",
-                            "telegram":"+85516677462"
-                        },
-                        "location": {
-                          "latitude": 11.5560,
-                          "longitude": 104.9282,
-                          "address": "Ambulance Station, Sdau Village"
-                        }
+                        "phone": {
+                  "hotline": {
+                    "smart": "+855987654321",
+                    "cellcard": "+855876543210",
+                    "metfone": "+855765432109"
+                  },
+                  "telegram": "@ambulance_sdau_bot"
+                },
+                "location": {
+                  "latitude": 11.5560,
+                  "longitude": 104.9282,
+                  "address": "Ambulance Station, Sdau Village"
+                }
                     },
                     {
                         "name": "ឡានពន្លត់អគ្គិភ័យ",
                         "command": "firefighter_sdau",
-                        "phonenumber":{
-                            "hotline":"+85516677462",
-                            "telegram":"+85516677462"
-                        },
-                        "location": {
-                          "latitude": 11.5560,
-                          "longitude": 104.9282,
-                          "address": "Ambulance Station, Sdau Village"
-                        }
+                        "phone": {
+                  "hotline": {
+                    "smart": "+855987654321",
+                    "cellcard": "+855876543210",
+                    "metfone": "+855765432109"
+                  },
+                  "telegram": "@ambulance_sdau_bot"
+                },
+                "location": {
+                  "latitude": 11.5560,
+                  "longitude": 104.9282,
+                  "address": "Ambulance Station, Sdau Village"
+                }
                     },
                     {
                         "name": "លេខសម្រាប់ទាក់ទងនិងអាជ្ញាធរដែនដី",
                         "command": "government_sdau",
-                        "phonenumber":{
-                            "hotline":"+85516677462",
-                            "telegram":"+85516677462"
-                        },
-                        "location": {
-                          "latitude": 11.5560,
-                          "longitude": 104.9282,
-                          "address": "Ambulance Station, Sdau Village"
-                        }
+                        "phone": {
+                  "hotline": {
+                    "smart": "+855987654321",
+                    "cellcard": "+855876543210",
+                    "metfone": "+855765432109"
+                  },
+                  "telegram": "@ambulance_sdau_bot"
+                },
+                "location": {
+                  "latitude": 11.5560,
+                  "longitude": 104.9282,
+                  "address": "Ambulance Station, Sdau Village"
+                }
                     }
               ]
             },
@@ -460,12 +572,19 @@
                     "phonenumber":{
                         "hotline":"+85516677462",
                         "telegram":"+85516677462"
-                    },
-                        "location": {
-                          "latitude": 11.5560,
-                          "longitude": 104.9282,
-                          "address": "Ambulance Station, Sdau Village"
-                        }
+                    },"phone": {
+                  "hotline": {
+                    "smart": "+855987654321",
+                    "cellcard": "+855876543210",
+                    "metfone": "+855765432109"
+                  },
+                  "telegram": "@ambulance_sdau_bot"
+                },
+                "location": {
+                  "latitude": 11.5560,
+                  "longitude": 104.9282,
+                  "address": "Ambulance Station, Sdau Village"
+                }
                 }
               ]
             }

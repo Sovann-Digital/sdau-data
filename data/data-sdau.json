@@ -1,625 +1,288 @@
-[
-    {
-      "Date": "8/18/2023",
-      "Communes": [
+[{
+    "Date":"18/08/2023",
+    "Communes": [{
+        "name":"ឃុំស្ដៅ",
+        "villages": [{
+            "name":"ភូមិស្ដៅ",
+            "command": "sdau",
+            "Services": [{
+                "name": "លេខសម្រាប់ទាក់ទងនិងអាជ្ញាធរដែនដី",
+                "command": "government_sdau",
+                "phone": {
+                    "hotline": {
+                        "smart": "+85516677462",
+                        "cellcard": "+85516677462",
+                        "metfone": "+85516677462"
+                    },
+                "posterurl": "https://imgs.search.brave.com/feoYHpadxRJuoUy88IJIxK5Ur5RwRFMPakjR5jeyZGo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAyLzk0Lzk1LzA2/LzM2MF9GXzI5NDk1/MDYxMF8wdVFZUDVl/V3lzaW9qc0VqUmdI/eWJYeTQxQUo3RXFV/NC5qcGc",
+                "telegram": "@ambulance_sdau_bot"
+                    },
+                "location": {
+                    "latitude": 11.5560,
+                    "longitude": 104.9282,
+                    "address": "Government Station, Sdau Village"
+                    }
+            }]
+        },
         {
-          "name": "ឃុំស្ដៅ",
-          "villages": [
-            {
-              "name": "ភូមិស្ដៅ",
-              "command": "sdau",
-              "Services": [
-                {
-                    "name": "លេខសម្រាប់ទាក់ទងនិងអាជ្ញាធរដែនដី",
-                    "command": "government_sdau",
-                    "phone": {
-                      "hotline": {
+            "name":"ភូមិបាណង់",
+            "command": "banang ",
+            "Services": [{
+                "name": "លេខសម្រាប់ទាក់ទងនិងអាជ្ញាធរដែនដី",
+                "command": "government_sdau",
+                "phone": {
+                    "hotline": {
                         "smart": "+85516677462",
                         "cellcard": "+85516677462",
                         "metfone": "+85516677462"
-                      },
-                      "posterurl": "https://imgs.search.brave.com/feoYHpadxRJuoUy88IJIxK5Ur5RwRFMPakjR5jeyZGo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAyLzk0Lzk1LzA2/LzM2MF9GXzI5NDk1/MDYxMF8wdVFZUDVl/V3lzaW9qc0VqUmdI/eWJYeTQxQUo3RXFV/NC5qcGc",
-                      "telegram": "@ambulance_sdau_bot"
                     },
-                    "location": {
-                      "latitude": 11.5560,
-                      "longitude": 104.9282,
-                      "address": "Ambulance Station, Sdau Village"
+                "posterurl": "https://imgs.search.brave.com/feoYHpadxRJuoUy88IJIxK5Ur5RwRFMPakjR5jeyZGo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAyLzk0Lzk1LzA2/LzM2MF9GXzI5NDk1/MDYxMF8wdVFZUDVl/V3lzaW9qc0VqUmdI/eWJYeTQxQUo3RXFV/NC5qcGc",
+                "telegram": "@ambulance_sdau_bot"
+                    },
+                "location": {
+                    "latitude": 11.5560,
+                    "longitude": 104.9282,
+                    "address": "Government Station, Sdau Village"
                     }
-                  },
-                {
-                  "name": "ឡានសង្គ្រោះបន្ទាន់",
-                  "command": "ambulance_sdau",
-                  "phone": {
+            }]
+        },
+        {
+            "name":"ភូមិចំការល្មុត",
+            "command": "chamkar_lmut",
+            "Services": [{
+                "name": "លេខសម្រាប់ទាក់ទងនិងអាជ្ញាធរដែនដី",
+                "command": "government_sdau",
+                "phone": {
                     "hotline": {
-                      "smart": "+85516677462",
-                      "cellcard": "+85516677462",
-                      "metfone": "+85516677462"
-                    },
-                    "posterurl": "https://imgs.search.brave.com/feoYHpadxRJuoUy88IJIxK5Ur5RwRFMPakjR5jeyZGo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAyLzk0Lzk1LzA2/LzM2MF9GXzI5NDk1/MDYxMF8wdVFZUDVl/V3lzaW9qc0VqUmdI/eWJYeTQxQUo3RXFV/NC5qcGc",
-                    "telegram": "@ambulance_sdau_bot"
-                  },
-                  "location": {
-                    "latitude": 11.5560,
-                    "longitude": 104.9282,
-                    "address": "Ambulance Station, Sdau Village"
-                  }
-                },
-                {
-                  "name": "នគោរបាលនិងអធិការ",
-                  "command": "police_sdau",
-                  "phone": {
-                    "hotline": {
-                      "smart": "+85516677462",
-                      "cellcard": "+85516677462",
-                      "metfone": "+85516677462"
-                    },
-                    "posterurl": "https://imgs.search.brave.com/feoYHpadxRJuoUy88IJIxK5Ur5RwRFMPakjR5jeyZGo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAyLzk0Lzk1LzA2/LzM2MF9GXzI5NDk1/MDYxMF8wdVFZUDVl/V3lzaW9qc0VqUmdI/eWJYeTQxQUo3RXFV/NC5qcGc",
-                    "telegram": "@ambulance_sdau_bot"
-                  },
-                  "location": {
-                    "latitude": 11.5560,
-                    "longitude": 104.9282,
-                    "address": "Ambulance Station, Sdau Village"
-                  }
-                },
-                {
-                  "name": "ឡានពន្លត់អគ្គិភ័យ",
-                  "command": "firefighter_sdau",
-                  "phone": {
-                    "hotline": {
-                      "smart": "+85516677462",
-                      "cellcard": "+85516677462",
-                      "metfone": "+85516677462"
-                    },
-                    "posterurl": "https://imgs.search.brave.com/feoYHpadxRJuoUy88IJIxK5Ur5RwRFMPakjR5jeyZGo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAyLzk0Lzk1LzA2/LzM2MF9GXzI5NDk1/MDYxMF8wdVFZUDVl/V3lzaW9qc0VqUmdI/eWJYeTQxQUo3RXFV/NC5qcGc",
-                    "telegram": "@ambulance_sdau_bot"
-                  },
-                  "location": {
-                    "latitude": 11.5560,
-                    "longitude": 104.9282,
-                    "address": "Ambulance Station, Sdau Village"
-                  }
-                }
-              ]
-            },
-            {
-              "name": "ភូមិបឹងអ៊ំពិល",
-              "command": "beng",
-              "Services": [
-                {
-                    "name": "លេខសម្រាប់ទាក់ទងនិងអាជ្ញាធរដែនដី",
-                    "command": "government_sdau",
-                    "phone": {
-                      "hotline": {
                         "smart": "+85516677462",
                         "cellcard": "+85516677462",
                         "metfone": "+85516677462"
-                      },
-                      "posterurl": "https://imgs.search.brave.com/feoYHpadxRJuoUy88IJIxK5Ur5RwRFMPakjR5jeyZGo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAyLzk0Lzk1LzA2/LzM2MF9GXzI5NDk1/MDYxMF8wdVFZUDVl/V3lzaW9qc0VqUmdI/eWJYeTQxQUo3RXFV/NC5qcGc",
-                      "telegram": "@ambulance_sdau_bot"
                     },
-                    "location": {
-                      "latitude": 11.5560,
-                      "longitude": 104.9282,
-                      "address": "Ambulance Station, Sdau Village"
+                "posterurl": "https://imgs.search.brave.com/feoYHpadxRJuoUy88IJIxK5Ur5RwRFMPakjR5jeyZGo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAyLzk0Lzk1LzA2/LzM2MF9GXzI5NDk1/MDYxMF8wdVFZUDVl/V3lzaW9qc0VqUmdI/eWJYeTQxQUo3RXFV/NC5qcGc",
+                "telegram": "@ambulance_sdau_bot"
+                    },
+                "location": {
+                    "latitude": 11.5560,
+                    "longitude": 104.9282,
+                    "address": "Government Station, Sdau Village"
                     }
-                  },
-                {
-                  "name": "ឡានសង្គ្រោះបន្ទាន់",
-                  "command": "ambulance_sdau",
-                  "phone": {
+            }]
+        },
+        {
+            "name":"ភូមិបឹងអំពិល",
+            "command": "chamkar_lmut",
+            "Services": [{
+                "name": "លេខសម្រាប់ទាក់ទងនិងអាជ្ញាធរដែនដី",
+                "command": "government_sdau",
+                "phone": {
                     "hotline": {
-                      "smart": "+85516677462",
-                      "cellcard": "+85516677462",
-                      "metfone": "+85516677462"
-                    },
-                    "posterurl": "https://imgs.search.brave.com/feoYHpadxRJuoUy88IJIxK5Ur5RwRFMPakjR5jeyZGo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAyLzk0Lzk1LzA2/LzM2MF9GXzI5NDk1/MDYxMF8wdVFZUDVl/V3lzaW9qc0VqUmdI/eWJYeTQxQUo3RXFV/NC5qcGc",
-                    "telegram": "@ambulance_sdau_bot"
-                  },
-                  "location": {
-                    "latitude": 11.5560,
-                    "longitude": 104.9282,
-                    "address": "Ambulance Station, Sdau Village"
-                  }
-                },
-                {
-                  "name": "នគោរបាលនិងអធិការ",
-                  "command": "police_sdau",
-                  "phone": {
-                    "hotline": {
-                      "smart": "+85516677462",
-                      "cellcard": "+85516677462",
-                      "metfone": "+85516677462"
-                    },
-                    "posterurl": "https://imgs.search.brave.com/feoYHpadxRJuoUy88IJIxK5Ur5RwRFMPakjR5jeyZGo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAyLzk0Lzk1LzA2/LzM2MF9GXzI5NDk1/MDYxMF8wdVFZUDVl/V3lzaW9qc0VqUmdI/eWJYeTQxQUo3RXFV/NC5qcGc",
-                    "telegram": "@ambulance_sdau_bot"
-                  },
-                  "location": {
-                    "latitude": 11.5560,
-                    "longitude": 104.9282,
-                    "address": "Ambulance Station, Sdau Village"
-                  }
-                },
-                {
-                  "name": "ឡានពន្លត់អគ្គិភ័យ",
-                  "command": "firefighter_sdau",
-                  "phone": {
-                    "hotline": {
-                      "smart": "+85516677462",
-                      "cellcard": "+85516677462",
-                      "metfone": "+85516677462"
-                    },
-                    "posterurl": "https://imgs.search.brave.com/feoYHpadxRJuoUy88IJIxK5Ur5RwRFMPakjR5jeyZGo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAyLzk0Lzk1LzA2/LzM2MF9GXzI5NDk1/MDYxMF8wdVFZUDVl/V3lzaW9qc0VqUmdI/eWJYeTQxQUo3RXFV/NC5qcGc",
-                    "telegram": "@ambulance_sdau_bot"
-                  },
-                  "location": {
-                    "latitude": 11.5560,
-                    "longitude": 104.9282,
-                    "address": "Ambulance Station, Sdau Village"
-                  }
-                }
-              ]
-            },
-            {
-              "name": "ភូមិបាណង់",
-              "command": "banang",
-              "Services": [
-                {
-                    "name": "លេខសម្រាប់ទាក់ទងនិងអាជ្ញាធរដែនដី",
-                    "command": "government_sdau",
-                    "phone": {
-                      "hotline": {
                         "smart": "+85516677462",
                         "cellcard": "+85516677462",
                         "metfone": "+85516677462"
-                      },
-                      "posterurl": "https://imgs.search.brave.com/feoYHpadxRJuoUy88IJIxK5Ur5RwRFMPakjR5jeyZGo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAyLzk0Lzk1LzA2/LzM2MF9GXzI5NDk1/MDYxMF8wdVFZUDVl/V3lzaW9qc0VqUmdI/eWJYeTQxQUo3RXFV/NC5qcGc",
-                      "telegram": "@ambulance_sdau_bot"
                     },
-                    "location": {
-                      "latitude": 11.5560,
-                      "longitude": 104.9282,
-                      "address": "Ambulance Station, Sdau Village"
+                "posterurl": "https://imgs.search.brave.com/feoYHpadxRJuoUy88IJIxK5Ur5RwRFMPakjR5jeyZGo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAyLzk0Lzk1LzA2/LzM2MF9GXzI5NDk1/MDYxMF8wdVFZUDVl/V3lzaW9qc0VqUmdI/eWJYeTQxQUo3RXFV/NC5qcGc",
+                "telegram": "@ambulance_sdau_bot"
+                    },
+                "location": {
+                    "latitude": 11.5560,
+                    "longitude": 104.9282,
+                    "address": "Government Station, Sdau Village"
                     }
-                  },
-                {
-                  "name": "ឡានសង្គ្រោះបន្ទាន់",
-                  "command": "ambulance_sdau",
-                  "phone": {
+            }]
+        },
+        {
+            "name":"ភូមិដង្គត់",
+            "command": "chamkar_lmut",
+            "Services": [{
+                "name": "លេខសម្រាប់ទាក់ទងនិងអាជ្ញាធរដែនដី",
+                "command": "government_sdau",
+                "phone": {
                     "hotline": {
-                      "smart": "+85516677462",
-                      "cellcard": "+85516677462",
-                      "metfone": "+85516677462"
-                    },
-                    "posterurl": "https://imgs.search.brave.com/feoYHpadxRJuoUy88IJIxK5Ur5RwRFMPakjR5jeyZGo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAyLzk0Lzk1LzA2/LzM2MF9GXzI5NDk1/MDYxMF8wdVFZUDVl/V3lzaW9qc0VqUmdI/eWJYeTQxQUo3RXFV/NC5qcGc",
-                    "telegram": "@ambulance_sdau_bot"
-                  },
-                  "location": {
-                    "latitude": 11.5560,
-                    "longitude": 104.9282,
-                    "address": "Ambulance Station, Sdau Village"
-                  }
-                },
-                {
-                  "name": "នគោរបាលនិងអធិការ",
-                  "command": "police_sdau",
-                  "phone": {
-                    "hotline": {
-                      "smart": "+85516677462",
-                      "cellcard": "+85516677462",
-                      "metfone": "+85516677462"
-                    },
-                    "posterurl": "https://imgs.search.brave.com/feoYHpadxRJuoUy88IJIxK5Ur5RwRFMPakjR5jeyZGo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAyLzk0Lzk1LzA2/LzM2MF9GXzI5NDk1/MDYxMF8wdVFZUDVl/V3lzaW9qc0VqUmdI/eWJYeTQxQUo3RXFV/NC5qcGc",
-                    "telegram": "@ambulance_sdau_bot"
-                  },
-                  "location": {
-                    "latitude": 11.5560,
-                    "longitude": 104.9282,
-                    "address": "Ambulance Station, Sdau Village"
-                  }
-                },
-                {
-                  "name": "ឡានពន្លត់អគ្គិភ័យ",
-                  "command": "firefighter_sdau",
-                  "phone": {
-                    "hotline": {
-                      "smart": "+85516677462",
-                      "cellcard": "+85516677462",
-                      "metfone": "+85516677462"
-                    },
-                    "posterurl": "https://imgs.search.brave.com/feoYHpadxRJuoUy88IJIxK5Ur5RwRFMPakjR5jeyZGo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAyLzk0Lzk1LzA2/LzM2MF9GXzI5NDk1/MDYxMF8wdVFZUDVl/V3lzaW9qc0VqUmdI/eWJYeTQxQUo3RXFV/NC5qcGc",
-                    "telegram": "@ambulance_sdau_bot"
-                  },
-                  "location": {
-                    "latitude": 11.5560,
-                    "longitude": 104.9282,
-                    "address": "Ambulance Station, Sdau Village"
-                  }
-                }
-              ]
-            },
-            {
-              "name": "ភូមិចំការល្មុត",
-              "command": "lmut",
-              "Services": [
-                {
-                    "name": "លេខសម្រាប់ទាក់ទងនិងអាជ្ញាធរដែនដី",
-                    "command": "government_sdau",
-                    "phone": {
-                      "hotline": {
                         "smart": "+85516677462",
                         "cellcard": "+85516677462",
                         "metfone": "+85516677462"
-                      },
-                      "posterurl": "https://imgs.search.brave.com/feoYHpadxRJuoUy88IJIxK5Ur5RwRFMPakjR5jeyZGo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAyLzk0Lzk1LzA2/LzM2MF9GXzI5NDk1/MDYxMF8wdVFZUDVl/V3lzaW9qc0VqUmdI/eWJYeTQxQUo3RXFV/NC5qcGc",
-                      "telegram": "@ambulance_sdau_bot"
                     },
-                    "location": {
-                      "latitude": 11.5560,
-                      "longitude": 104.9282,
-                      "address": "Ambulance Station, Sdau Village"
+                "posterurl": "https://imgs.search.brave.com/feoYHpadxRJuoUy88IJIxK5Ur5RwRFMPakjR5jeyZGo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAyLzk0Lzk1LzA2/LzM2MF9GXzI5NDk1/MDYxMF8wdVFZUDVl/V3lzaW9qc0VqUmdI/eWJYeTQxQUo3RXFV/NC5qcGc",
+                "telegram": "@ambulance_sdau_bot"
+                    },
+                "location": {
+                    "latitude": 11.5560,
+                    "longitude": 104.9282,
+                    "address": "Government Station, Sdau Village"
                     }
-                  },
-                {
-                  "name": "ឡានសង្គ្រោះបន្ទាន់",
-                  "command": "ambulance_sdau",
-                  "phone": {
+            }]
+        },
+        {
+            "name":"ភូមិដូនមាយ",
+            "command": "chamkar_lmut",
+            "Services": [{
+                "name": "លេខសម្រាប់ទាក់ទងនិងអាជ្ញាធរដែនដី",
+                "command": "government_sdau",
+                "phone": {
                     "hotline": {
-                      "smart": "+85516677462",
-                      "cellcard": "+85516677462",
-                      "metfone": "+85516677462"
-                    },
-                    "posterurl": "https://imgs.search.brave.com/feoYHpadxRJuoUy88IJIxK5Ur5RwRFMPakjR5jeyZGo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAyLzk0Lzk1LzA2/LzM2MF9GXzI5NDk1/MDYxMF8wdVFZUDVl/V3lzaW9qc0VqUmdI/eWJYeTQxQUo3RXFV/NC5qcGc",
-                    "telegram": "@ambulance_sdau_bot"
-                  },
-                  "location": {
-                    "latitude": 11.5560,
-                    "longitude": 104.9282,
-                    "address": "Ambulance Station, Sdau Village"
-                  }
-                },
-                {
-                  "name": "នគោរបាលនិងអធិការ",
-                  "command": "police_sdau",
-                  "phone": {
-                    "hotline": {
-                      "smart": "+85516677462",
-                      "cellcard": "+85516677462",
-                      "metfone": "+85516677462"
-                    },
-                    "posterurl": "https://imgs.search.brave.com/feoYHpadxRJuoUy88IJIxK5Ur5RwRFMPakjR5jeyZGo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAyLzk0Lzk1LzA2/LzM2MF9GXzI5NDk1/MDYxMF8wdVFZUDVl/V3lzaW9qc0VqUmdI/eWJYeTQxQUo3RXFV/NC5qcGc",
-                    "telegram": "@ambulance_sdau_bot"
-                  },
-                  "location": {
-                    "latitude": 11.5560,
-                    "longitude": 104.9282,
-                    "address": "Ambulance Station, Sdau Village"
-                  }
-                },
-                {
-                  "name": "ឡានពន្លត់អគ្គិភ័យ",
-                  "command": "firefighter_sdau",
-                  "phone": {
-                    "hotline": {
-                      "smart": "+85516677462",
-                      "cellcard": "+85516677462",
-                      "metfone": "+85516677462"
-                    },
-                    "posterurl": "https://imgs.search.brave.com/feoYHpadxRJuoUy88IJIxK5Ur5RwRFMPakjR5jeyZGo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAyLzk0Lzk1LzA2/LzM2MF9GXzI5NDk1/MDYxMF8wdVFZUDVl/V3lzaW9qc0VqUmdI/eWJYeTQxQUo3RXFV/NC5qcGc",
-                    "telegram": "@ambulance_sdau_bot"
-                  },
-                  "location": {
-                    "latitude": 11.5560,
-                    "longitude": 104.9282,
-                    "address": "Ambulance Station, Sdau Village"
-                  }
-                }
-              ]
-            },
-            {
-              "name": "ភូមិដង្គត់",
-              "command": "dangkot",
-              "Services": [
-                {
-                    "name": "លេខសម្រាប់ទាក់ទងនិងអាជ្ញាធរដែនដី",
-                    "command": "government_sdau",
-                    "phone": {
-                      "hotline": {
                         "smart": "+85516677462",
                         "cellcard": "+85516677462",
                         "metfone": "+85516677462"
-                      },
-                      "posterurl": "https://imgs.search.brave.com/feoYHpadxRJuoUy88IJIxK5Ur5RwRFMPakjR5jeyZGo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAyLzk0Lzk1LzA2/LzM2MF9GXzI5NDk1/MDYxMF8wdVFZUDVl/V3lzaW9qc0VqUmdI/eWJYeTQxQUo3RXFV/NC5qcGc",
-                      "telegram": "@ambulance_sdau_bot"
                     },
-                    "location": {
-                      "latitude": 11.5560,
-                      "longitude": 104.9282,
-                      "address": "Ambulance Station, Sdau Village"
+                "posterurl": "https://imgs.search.brave.com/feoYHpadxRJuoUy88IJIxK5Ur5RwRFMPakjR5jeyZGo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAyLzk0Lzk1LzA2/LzM2MF9GXzI5NDk1/MDYxMF8wdVFZUDVl/V3lzaW9qc0VqUmdI/eWJYeTQxQUo3RXFV/NC5qcGc",
+                "telegram": "@ambulance_sdau_bot"
+                    },
+                "location": {
+                    "latitude": 11.5560,
+                    "longitude": 104.9282,
+                    "address": "Government Station, Sdau Village"
                     }
-                  },
-                {
-                  "name": "ឡានសង្គ្រោះបន្ទាន់",
-                  "command": "ambulance_sdau",
-                  "phone": {
+            }]
+        },
+        {
+            "name":"ភូមិបរិបូរណ៌",
+            "command": "chamkar_lmut",
+            "Services": [{
+                "name": "លេខសម្រាប់ទាក់ទងនិងអាជ្ញាធរដែនដី",
+                "command": "government_sdau",
+                "phone": {
                     "hotline": {
-                      "smart": "+85516677462",
-                      "cellcard": "+85516677462",
-                      "metfone": "+85516677462"
-                    },
-                    "posterurl": "https://imgs.search.brave.com/feoYHpadxRJuoUy88IJIxK5Ur5RwRFMPakjR5jeyZGo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAyLzk0Lzk1LzA2/LzM2MF9GXzI5NDk1/MDYxMF8wdVFZUDVl/V3lzaW9qc0VqUmdI/eWJYeTQxQUo3RXFV/NC5qcGc",
-                    "telegram": "@ambulance_sdau_bot"
-                  },
-                  "location": {
-                    "latitude": 11.5560,
-                    "longitude": 104.9282,
-                    "address": "Ambulance Station, Sdau Village"
-                  }
-                },
-                {
-                  "name": "នគោរបាលនិងអធិការ",
-                  "command": "police_sdau",
-                  "phone": {
-                    "hotline": {
-                      "smart": "+85516677462",
-                      "cellcard": "+85516677462",
-                      "metfone": "+85516677462"
-                    },
-                    "posterurl": "https://imgs.search.brave.com/feoYHpadxRJuoUy88IJIxK5Ur5RwRFMPakjR5jeyZGo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAyLzk0Lzk1LzA2/LzM2MF9GXzI5NDk1/MDYxMF8wdVFZUDVl/V3lzaW9qc0VqUmdI/eWJYeTQxQUo3RXFV/NC5qcGc",
-                    "telegram": "@ambulance_sdau_bot"
-                  },
-                  "location": {
-                    "latitude": 11.5560,
-                    "longitude": 104.9282,
-                    "address": "Ambulance Station, Sdau Village"
-                  }
-                },
-                {
-                  "name": "ឡានពន្លត់អគ្គិភ័យ",
-                  "command": "firefighter_sdau",
-                  "phone": {
-                    "hotline": {
-                      "smart": "+85516677462",
-                      "cellcard": "+85516677462",
-                      "metfone": "+85516677462"
-                    },
-                    "posterurl": "https://imgs.search.brave.com/feoYHpadxRJuoUy88IJIxK5Ur5RwRFMPakjR5jeyZGo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAyLzk0Lzk1LzA2/LzM2MF9GXzI5NDk1/MDYxMF8wdVFZUDVl/V3lzaW9qc0VqUmdI/eWJYeTQxQUo3RXFV/NC5qcGc",
-                    "telegram": "@ambulance_sdau_bot"
-                  },
-                  "location": {
-                    "latitude": 11.5560,
-                    "longitude": 104.9282,
-                    "address": "Ambulance Station, Sdau Village"
-                  }
-                }
-              ]
-            },
-            {
-              "name": "ភូមិដូនមាយ",
-              "command": "meay",
-              "Services": [
-                {
-                    "name": "លេខសម្រាប់ទាក់ទងនិងអាជ្ញាធរដែនដី",
-                    "command": "government_sdau",
-                    "phone": {
-                      "hotline": {
                         "smart": "+85516677462",
                         "cellcard": "+85516677462",
                         "metfone": "+85516677462"
-                      },
-                      "posterurl": "https://imgs.search.brave.com/feoYHpadxRJuoUy88IJIxK5Ur5RwRFMPakjR5jeyZGo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAyLzk0Lzk1LzA2/LzM2MF9GXzI5NDk1/MDYxMF8wdVFZUDVl/V3lzaW9qc0VqUmdI/eWJYeTQxQUo3RXFV/NC5qcGc",
-                      "telegram": "@ambulance_sdau_bot"
                     },
-                    "location": {
-                      "latitude": 11.5560,
-                      "longitude": 104.9282,
-                      "address": "Ambulance Station, Sdau Village"
+                "posterurl": "https://imgs.search.brave.com/feoYHpadxRJuoUy88IJIxK5Ur5RwRFMPakjR5jeyZGo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAyLzk0Lzk1LzA2/LzM2MF9GXzI5NDk1/MDYxMF8wdVFZUDVl/V3lzaW9qc0VqUmdI/eWJYeTQxQUo3RXFV/NC5qcGc",
+                "telegram": "@ambulance_sdau_bot"
+                    },
+                "location": {
+                    "latitude": 11.5560,
+                    "longitude": 104.9282,
+                    "address": "Government Station, Sdau Village"
                     }
-                  },
-                {
-                  "name": "ឡានសង្គ្រោះបន្ទាន់",
-                  "command": "ambulance_sdau",
-                  "phone": {
+            }]
+        },
+        {
+            "name":"ភូមិគោកជ័រ",
+            "command": "chamkar_lmut",
+            "Services": [{
+                "name": "លេខសម្រាប់ទាក់ទងនិងអាជ្ញាធរដែនដី",
+                "command": "government_sdau",
+                "phone": {
                     "hotline": {
-                      "smart": "+85516677462",
-                      "cellcard": "+85516677462",
-                      "metfone": "+85516677462"
-                    },
-                    "posterurl": "https://imgs.search.brave.com/feoYHpadxRJuoUy88IJIxK5Ur5RwRFMPakjR5jeyZGo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAyLzk0Lzk1LzA2/LzM2MF9GXzI5NDk1/MDYxMF8wdVFZUDVl/V3lzaW9qc0VqUmdI/eWJYeTQxQUo3RXFV/NC5qcGc",
-                    "telegram": "@ambulance_sdau_bot"
-                  },
-                  "location": {
-                    "latitude": 11.5560,
-                    "longitude": 104.9282,
-                    "address": "Ambulance Station, Sdau Village"
-                  }
-                },
-                {
-                  "name": "នគោរបាលនិងអធិការ",
-                  "command": "police_sdau",
-                  "phone": {
-                    "hotline": {
-                      "smart": "+85516677462",
-                      "cellcard": "+85516677462",
-                      "metfone": "+85516677462"
-                    },
-                    "posterurl": "https://imgs.search.brave.com/feoYHpadxRJuoUy88IJIxK5Ur5RwRFMPakjR5jeyZGo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAyLzk0Lzk1LzA2/LzM2MF9GXzI5NDk1/MDYxMF8wdVFZUDVl/V3lzaW9qc0VqUmdI/eWJYeTQxQUo3RXFV/NC5qcGc",
-                    "telegram": "@ambulance_sdau_bot"
-                  },
-                  "location": {
-                    "latitude": 11.5560,
-                    "longitude": 104.9282,
-                    "address": "Ambulance Station, Sdau Village"
-                  }
-                },
-                {
-                  "name": "ឡានពន្លត់អគ្គិភ័យ",
-                  "command": "firefighter_sdau",
-                  "phone": {
-                    "hotline": {
-                      "smart": "+85516677462",
-                      "cellcard": "+85516677462",
-                      "metfone": "+85516677462"
-                    },
-                    "posterurl": "https://imgs.search.brave.com/feoYHpadxRJuoUy88IJIxK5Ur5RwRFMPakjR5jeyZGo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAyLzk0Lzk1LzA2/LzM2MF9GXzI5NDk1/MDYxMF8wdVFZUDVl/V3lzaW9qc0VqUmdI/eWJYeTQxQUo3RXFV/NC5qcGc",
-                    "telegram": "@ambulance_sdau_bot"
-                  },
-                  "location": {
-                    "latitude": 11.5560,
-                    "longitude": 104.9282,
-                    "address": "Ambulance Station, Sdau Village"
-                  }
-                }
-              ]
-            },
-            {
-              "name": "ភូមិបរិបូរណ៌",
-              "command": "baribour",
-              "Services": [
-                {
-                    "name": "លេខសម្រាប់ទាក់ទងនិងអាជ្ញាធរដែនដី",
-                    "command": "government_sdau",
-                    "phone": {
-                      "hotline": {
                         "smart": "+85516677462",
                         "cellcard": "+85516677462",
                         "metfone": "+85516677462"
-                      },
-                      "posterurl": "https://imgs.search.brave.com/feoYHpadxRJuoUy88IJIxK5Ur5RwRFMPakjR5jeyZGo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAyLzk0Lzk1LzA2/LzM2MF9GXzI5NDk1/MDYxMF8wdVFZUDVl/V3lzaW9qc0VqUmdI/eWJYeTQxQUo3RXFV/NC5qcGc",
-                      "telegram": "@ambulance_sdau_bot"
                     },
-                    "location": {
-                      "latitude": 11.5560,
-                      "longitude": 104.9282,
-                      "address": "Ambulance Station, Sdau Village"
+                "posterurl": "https://imgs.search.brave.com/feoYHpadxRJuoUy88IJIxK5Ur5RwRFMPakjR5jeyZGo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAyLzk0Lzk1LzA2/LzM2MF9GXzI5NDk1/MDYxMF8wdVFZUDVl/V3lzaW9qc0VqUmdI/eWJYeTQxQUo3RXFV/NC5qcGc",
+                "telegram": "@ambulance_sdau_bot"
+                    },
+                "location": {
+                    "latitude": 11.5560,
+                    "longitude": 104.9282,
+                    "address": "Government Station, Sdau Village"
                     }
-                  },
-                {
-                  "name": "ឡានសង្គ្រោះបន្ទាន់",
-                  "command": "ambulance_sdau",
-                  "phone": {
+            }]
+        }        
+    ]
+    },
+    {
+        "name":"ឃុំអណ្ដើកហែប",
+        "villages": [{
+            "name":"ភូមិស្ដៅ",
+            "command": "sdau",
+            "Services": [{
+                "name": "លេខសម្រាប់ទាក់ទងនិងអាជ្ញាធរដែនដី",
+                "command": "government_sdau",
+                "phone": {
                     "hotline": {
-                      "smart": "+85516677462",
-                      "cellcard": "+85516677462",
-                      "metfone": "+85516677462"
+                        "smart": "+85516677462",
+                        "cellcard": "+85516677462",
+                        "metfone": "+85516677462"
                     },
-                    "posterurl": "https://imgs.search.brave.com/feoYHpadxRJuoUy88IJIxK5Ur5RwRFMPakjR5jeyZGo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAyLzk0Lzk1LzA2/LzM2MF9GXzI5NDk1/MDYxMF8wdVFZUDVl/V3lzaW9qc0VqUmdI/eWJYeTQxQUo3RXFV/NC5qcGc",
-                    "telegram": "@ambulance_sdau_bot"
-                  },
-                  "location": {
+                "posterurl": "https://imgs.search.brave.com/feoYHpadxRJuoUy88IJIxK5Ur5RwRFMPakjR5jeyZGo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAyLzk0Lzk1LzA2/LzM2MF9GXzI5NDk1/MDYxMF8wdVFZUDVl/V3lzaW9qc0VqUmdI/eWJYeTQxQUo3RXFV/NC5qcGc",
+                "telegram": "@ambulance_sdau_bot"
+                    },
+                "location": {
                     "latitude": 11.5560,
                     "longitude": 104.9282,
-                    "address": "Ambulance Station, Sdau Village"
-                  }
-                },
-                {
-                  "name": "នគោរបាលនិងអធិការ",
-                  "command": "police_sdau",
-                  "phone": {
+                    "address": "Government Station, Sdau Village"
+                    }
+            }]
+        }       
+    ]
+    },
+    {
+        "name":"ឃុំផ្លូវមាស",
+        "villages": [{
+            "name":"ភូមិស្ដៅ",
+            "command": "sdau",
+            "Services": [{
+                "name": "លេខសម្រាប់ទាក់ទងនិងអាជ្ញាធរដែនដី",
+                "command": "government_sdau",
+                "phone": {
                     "hotline": {
-                      "smart": "+85516677462",
-                      "cellcard": "+85516677462",
-                      "metfone": "+85516677462"
+                        "smart": "+85516677462",
+                        "cellcard": "+85516677462",
+                        "metfone": "+85516677462"
                     },
-                    "posterurl": "https://imgs.search.brave.com/feoYHpadxRJuoUy88IJIxK5Ur5RwRFMPakjR5jeyZGo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAyLzk0Lzk1LzA2/LzM2MF9GXzI5NDk1/MDYxMF8wdVFZUDVl/V3lzaW9qc0VqUmdI/eWJYeTQxQUo3RXFV/NC5qcGc",
-                    "telegram": "@ambulance_sdau_bot"
-                  },
-                  "location": {
+                "posterurl": "https://imgs.search.brave.com/feoYHpadxRJuoUy88IJIxK5Ur5RwRFMPakjR5jeyZGo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAyLzk0Lzk1LzA2/LzM2MF9GXzI5NDk1/MDYxMF8wdVFZUDVl/V3lzaW9qc0VqUmdI/eWJYeTQxQUo3RXFV/NC5qcGc",
+                "telegram": "@ambulance_sdau_bot"
+                    },
+                "location": {
                     "latitude": 11.5560,
                     "longitude": 104.9282,
-                    "address": "Ambulance Station, Sdau Village"
-                  }
-                },
-                {
-                  "name": "ឡានពន្លត់អគ្គិភ័យ",
-                  "command": "firefighter_sdau",
-                  "phone": {
+                    "address": "Government Station, Sdau Village"
+                    }
+            }]
+        }       
+    ]
+    },
+    {
+        "name":"ឃុំត្រែង",
+        "villages": [{
+            "name":"ភូមិស្ដៅ",
+            "command": "sdau",
+            "Services": [{
+                "name": "លេខសម្រាប់ទាក់ទងនិងអាជ្ញាធរដែនដី",
+                "command": "government_sdau",
+                "phone": {
                     "hotline": {
-                      "smart": "+85516677462",
-                      "cellcard": "+85516677462",
-                      "metfone": "+85516677462"
+                        "smart": "+85516677462",
+                        "cellcard": "+85516677462",
+                        "metfone": "+85516677462"
                     },
-                    "posterurl": "https://imgs.search.brave.com/feoYHpadxRJuoUy88IJIxK5Ur5RwRFMPakjR5jeyZGo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAyLzk0Lzk1LzA2/LzM2MF9GXzI5NDk1/MDYxMF8wdVFZUDVl/V3lzaW9qc0VqUmdI/eWJYeTQxQUo3RXFV/NC5qcGc",
-                    "telegram": "@ambulance_sdau_bot"
-                  },
-                  "location": {
+                "posterurl": "https://imgs.search.brave.com/feoYHpadxRJuoUy88IJIxK5Ur5RwRFMPakjR5jeyZGo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAyLzk0Lzk1LzA2/LzM2MF9GXzI5NDk1/MDYxMF8wdVFZUDVl/V3lzaW9qc0VqUmdI/eWJYeTQxQUo3RXFV/NC5qcGc",
+                "telegram": "@ambulance_sdau_bot"
+                    },
+                "location": {
                     "latitude": 11.5560,
                     "longitude": 104.9282,
-                    "address": "Ambulance Station, Sdau Village"
-                  }
-                }
-              ]
-            },
-            {
-              "name": "ភូមិគោកជ័រ",
-              "command": "kouk",
-              "Services": [
-                {
-                  "name": "ឡានសង្គ្រោះបន្ទាន់",
-                  "command": "ambulance_sdau",
-                  "phonenumber": {
-                    "hotline": "+85516677462",
-                    "telegram": "+85516677462"
-                  },
-                  "location": {
-                    "latitude": 11.5560,
-                    "longitude": 104.9282,
-                    "address": "Ambulance Station, Sdau Village"
-                  }
-                },
-                {
-                  "name": "នគោរបាលនិងអធិការ",
-                  "command": "police_sdau",
-                  "phonenumber": {
-                    "hotline": "+85516677462",
-                    "telegram": "+85516677462"
-                  },
-                  "location": {
-                    "latitude": 11.5560,
-                    "longitude": 104.9282,
-                    "address": "Ambulance Station, Sdau Village"
-                  }
-                },
-                {
-                  "name": "ឡានពន្លត់អគ្គិភ័យ",
-                  "command": "firefighter_sdau",
-                  "phonenumber": {
-                    "hotline": "+85516677462",
-                    "telegram": "+85516677462"
-                  },
-                  "location": {
-                    "latitude": 11.5560,
-                    "longitude": 104.9282,
-                    "address": "Ambulance Station, Sdau Village"
-                  }
-                },
-                {
-                  "name": "លេខសម្រាប់ទាក់ទងនិងអាជ្ញាធរដែនដី",
-                  "command": "government_sdau",
-                  "phonenumber": {
-                    "hotline": "+85516677462",
-                    "telegram": "+85516677462"
-                  },
-                  "phone": {
+                    "address": "Government Station, Sdau Village"
+                    }
+            }]
+        }       
+    ]
+    },
+    {
+        "name":"ឃុំរស្មីសង្ហារ",
+        "villages": [{
+            "name":"ភូមិស្ដៅ",
+            "command": "sdau",
+            "Services": [{
+                "name": "លេខសម្រាប់ទាក់ទងនិងអាជ្ញាធរដែនដី",
+                "command": "government_sdau",
+                "phone": {
                     "hotline": {
-                      "smart": "+85516677462",
-                      "cellcard": "+85516677462",
-                      "metfone": "+85516677462"
+                        "smart": "+85516677462",
+                        "cellcard": "+85516677462",
+                        "metfone": "+85516677462"
                     },
-                    "posterurl": "https://imgs.search.brave.com/feoYHpadxRJuoUy88IJIxK5Ur5RwRFMPakjR5jeyZGo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAyLzk0Lzk1LzA2/LzM2MF9GXzI5NDk1/MDYxMF8wdVFZUDVl/V3lzaW9qc0VqUmdI/eWJYeTQxQUo3RXFV/NC5qcGc",
-                    "telegram": "@ambulance_sdau_bot"
-                  },
-                  "location": {
+                "posterurl": "https://imgs.search.brave.com/feoYHpadxRJuoUy88IJIxK5Ur5RwRFMPakjR5jeyZGo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAyLzk0Lzk1LzA2/LzM2MF9GXzI5NDk1/MDYxMF8wdVFZUDVl/V3lzaW9qc0VqUmdI/eWJYeTQxQUo3RXFV/NC5qcGc",
+                "telegram": "@ambulance_sdau_bot"
+                    },
+                "location": {
                     "latitude": 11.5560,
                     "longitude": 104.9282,
-                    "address": "Ambulance Station, Sdau Village"
-                  }
-                }
-              ]
-            }
-          ]
-        }
-      ]
+                    "address": "Government Station, Sdau Village"
+                    }
+            }]
+        }       
+    ]
     }
-  ]
+]
+}]

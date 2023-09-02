@@ -56,7 +56,7 @@
                     },
                     "telegram": "@school_sdau_bot"
                   },
-                  "posterurl":"https://sovann-digital.github.io/sdau-data/images/school.png",
+                  "posterurl":"https://sovann-digital.github.io/sdau-data/images/mayor.png",
                   "location": {
                     "latitude": 11.5562,
                     "longitude": 104.9284,
@@ -112,48 +112,6 @@
       {
         "name": "ឃុំផ្លូវមាស",
         "villages": [
-          {
-            "name": "ភូមិពោធិ៍",
-            "command": "PhoThong1",
-            "Services": [
-              {
-                  "name": "នគរបាល(👮‍♂️)",
-                  "command": "police_phothong",
-                  "phone": {
-                    "hotline": {
-                      "smart": "+85516677465",
-                      "cellcard": "+85516677465",
-                      "metfone": "+85516677465"
-                    },
-                    "telegram": "@ambulance_phothong_bot"
-                  },
-                  "posterurl":"https://sovann-digital.github.io/phothong-data/images/police.png",
-                  "location": {
-                    "latitude": 11.5563,
-                    "longitude": 104.9285,
-                    "address": "Police Station, Pho Thong Village"
-                  }
-                },
-                {
-                  "name": "សេវាកម្មមុខងារ(🏥)",
-                  "command": "healthcare_phothong",
-                  "phone": {
-                    "hotline": {
-                      "smart": "+85516677466",
-                      "cellcard": "+85516677466",
-                      "metfone": "+85516677466"
-                    },
-                    "telegram": "@healthcare_phothong_bot"
-                  },
-                  "posterurl":"https://sovann-digital.github.io/phothong-data/images/hospital.png",
-                  "location": {
-                    "latitude": 11.5564,
-                    "longitude": 104.9286,
-                    "address": "Healthcare Center, Pho Thong Village"
-                  }
-                }
-            ]
-          } 
         ]
       },
       {

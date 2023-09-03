@@ -11,7 +11,7 @@
             "Services": [
               {
                 "name": "មេភូមិ(👨‍⚖️)",
-                "command": "mayor_village_sdau",
+                "command": "mayor_village",
                 "phone": {
                   "hotline": {
                     "smart": "+85516677462",

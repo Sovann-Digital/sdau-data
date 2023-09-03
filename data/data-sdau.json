@@ -9,6 +9,24 @@
             "name": "ភូមិស្ដៅ",
             "command": "Sdau1",
             "Services": [
+                {
+                  "name": "សាលាស្រុក(🏫)",
+                  "command": "school_sdau",
+                  "phone": {
+                    "hotline": {
+                      "smart": "+85516677464",
+                      "cellcard": "+85516677464",
+                      "metfone": "+85516677464"
+                    },
+                    "telegram": "@school_sdau_bot"
+                  },
+                  "posterurl":"https://sovann-digital.github.io/sdau-data/images/mayor.png",
+                  "location": {
+                    "latitude": 11.5562,
+                    "longitude": 104.9284,
+                    "address": "Commune School, Sdau Village"
+                  }
+                },
               {
                   "name": "មេឃុំ(👨‍⚖️)",
                   "command": "communes_sdau_mayor",
@@ -80,24 +98,6 @@
                     "longitude": 104.9283,
                     "address": "Healthcare Center, Sdau Village"
                   }
-                },
-                {
-                  "name": "សាលាស្រុក(🏫)",
-                  "command": "school_sdau",
-                  "phone": {
-                    "hotline": {
-                      "smart": "+85516677464",
-                      "cellcard": "+85516677464",
-                      "metfone": "+85516677464"
-                    },
-                    "telegram": "@school_sdau_bot"
-                  },
-                  "posterurl":"https://sovann-digital.github.io/sdau-data/images/mayor.png",
-                  "location": {
-                    "latitude": 11.5562,
-                    "longitude": 104.9284,
-                    "address": "Commune School, Sdau Village"
-                  }
                 }
             ]
           },
@@ -143,6 +143,11 @@
             "Services": [
             ]
           }
+        ]
+      },
+      {
+        "name": "ឃុំអណ្ដើកហែប",
+        "villages": [
         ]
       },
       {

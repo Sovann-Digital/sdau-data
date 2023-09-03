@@ -10,8 +10,8 @@
             "command": "Sdau",
             "Services": [
               {
-                "name": "នគរបាល(👮‍♂️)",
-                "command": "police_sdau",
+                "name": "មេភូមិ(👨‍⚖️)",
+                "command": "mayor_village_sdau",
                 "phone": {
                   "hotline": {
                     "smart": "+85516677462",

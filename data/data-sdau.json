@@ -11,7 +11,7 @@
             "Services": [
               {
                   "name": "មេឃុំ(👨‍⚖️)",
-                  "command": "commune_sdau_mayor",
+                  "command": "sdau_mayor",
                   "phone": {
                       "hotline": {
                           "smart": "+85516677462",
@@ -29,7 +29,7 @@
               },
               {
                   "name": "មេភូមិ(👨‍⚖️)",
-                  "command": "commune_sdau_chief",
+                  "command": "sdau_chief",
                   "phone": {
                       "hotline": {
                           "smart": "+85516677462",

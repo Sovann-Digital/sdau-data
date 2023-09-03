@@ -11,7 +11,7 @@
             "Services": [
               {
                 "name": "មេភូមិ(👨‍⚖️)",
-                "command": "mayor_village",
+                "command": "village_sdau",
                 "phone": {
                   "hotline": {
                     "smart": "+85516677462",
@@ -20,7 +20,7 @@
                   },
                   "telegram": "@ambulance_sdau_bot"
                 },
-                "posterurl":"https://sovann-digital.github.io/sdau-data/images/police.png",
+                "posterurl":"https://sovann-digital.github.io/sdau-data/images/mayor_village.png",
                 "location": {
                   "latitude": 11.5560,
                   "longitude": 104.9282,

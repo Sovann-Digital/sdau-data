@@ -74,7 +74,7 @@
                   },
                   "telegram": "@ambulance_sdau_bot"
                 },
-                "posterurl":"https://sovann-digital.github.io/sdau-data/images/hostpital.png",
+                "posterurl":"https://sovann-digital.github.io/sdau-data/images/hospital.png",
                 "location": {
                   "latitude": 11.5560,
                   "longitude": 104.9282,

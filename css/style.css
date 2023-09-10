@@ -1,80 +1,107 @@
-/* Reset some default styles */
-body, h1, h2, h3, p {
+/* Reset some default browser styles */
+body, h1, ul, li {
     margin: 0;
     padding: 0;
 }
 
-/* Set a background color for the body */
 body {
-    background-color: #f0f0f0;
     font-family: Arial, sans-serif;
+    background-color: #000;
+    color: #fff;
 }
 
-/* Style the header */
 .head {
     background-color: #333;
-    color: white;
     padding: 10px 0;
 }
 
-.head .logo {
-    display: flex;
-    align-items: center;
+.logo {
+    text-align: center;
 }
 
-.head #Logo {
-    font-size: 24px;
-    margin-left: 20px;
+#Logo {
+    font-size: 36px;
+    color: #fff;
+    text-transform: uppercase;
 }
 
-.head nav ul {
+nav ul {
     list-style: none;
     display: flex;
-    margin-top: 10px;
+    justify-content: center;
+    padding: 10px 0;
 }
 
-.head nav ul li {
-    margin-right: 20px;
+nav li {
+    margin: 0 20px;
 }
 
-.head nav ul li a {
+nav a {
     text-decoration: none;
-    color: white;
-    font-weight: bold;
-    transition: color 0.3s;
+    color: #fff;
+    font-size: 18px;
 }
 
-.head nav ul li a:hover {
-    color: #66ccff;
-}
-
-/* Style the main content area */
 .main {
     padding: 20px;
 }
 
-/* Style the footer */
+.home {
+    background-color: #222;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+.about {
+    background-color: #111;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+.contact {
+    background-color: #222;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
 .footer {
     background-color: #333;
-    color: white;
     padding: 20px 0;
     text-align: center;
 }
 
-/* Style the chat box */
-#bot-chat {
-    background-color: #fff;
-    border: 1px solid #ccc;
+.list {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.left, .right {
+    width: 48%;
+    background-color: #111;
     padding: 10px;
-    height: 300px; /* Adjust this as needed */
-    overflow-y: scroll; /* Add a scrollbar when content overflows */
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
 }
 
-/* Add styles for your other sections like .about and .contact as needed */
-.about {
-    /* Add your styles here */
+.app {
+    background-color: #111;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
 }
 
-.contact {
-    /* Add your styles here */
+/* Style links for a sci-fi feel */
+a {
+    transition: color 0.3s;
+}
+
+a:hover {
+    color: #00ffcc;
 }

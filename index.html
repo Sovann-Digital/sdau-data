@@ -3,27 +3,40 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles.css">
-    <title>Admin</title>
+    <link rel="stylesheet" href="./css/style.css">
+    <script src="./javascript/index.js"></script>
+    <title>sovann</title>
 </head>
 <body>
-    <div class="container">
-        <form action="./admin.php" method="post" id="login-form">
-            <h2>Admin Login</h2>
-            <div class="form-group">
-                <label for="name">Username:</label>
-                <input type="text" name="name" id="name" required>
-            </div>
-            <div class="form-group">
-                <label for="password">Password:</label>
-                <input type="password" name="password" id="password" required>
-                <span id="toggle-password">Show</span>
-            </div>
-            <div class="form-group">
-                <input type="submit" value="Submit">
-            </div>
-        </form>
+    <div class="head">
+        <div class="logo">
+            <H1 id="Logo">TITLEs</H1>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="#">home</a></li>
+                <li><a href="#">about</a></li>
+                <li><a href="#">contact</a></li>
+            </ul>
+        </nav>
     </div>
-    <script src="script.js"></script>
+    <div class="main">
+        <div class="home">
+            <div id="bot-chat">
+                
+            </div>
+        </div>
+        <div class="about"></div>
+        <div class="contact"></div>
+    </div>
+    <div class="footer">
+        <div class="list">
+            <div class="left"></div>
+            <div class="right"></div>
+        </div>
+        <div class="app">
+
+        </div>
+    </div>
 </body>
 </html>

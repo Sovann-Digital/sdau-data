@@ -13,6 +13,7 @@ body {
 .head {
     background-color: #333;
     padding: 10px 0;
+    text-align: center;
 }
 
 .logo {
@@ -40,40 +41,39 @@ nav a {
     text-decoration: none;
     color: #fff;
     font-size: 18px;
+    transition: color 0.3s;
+}
+
+nav a:hover {
+    color: #00ffcc;
 }
 
 .main {
     padding: 20px;
 }
 
-.home {
-    background-color: #222;
-    padding: 20px;
-    border-radius: 10px;
-    margin-bottom: 20px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
-}
-
-.about {
+.home, .about, .contact {
     background-color: #111;
     padding: 20px;
     border-radius: 10px;
     margin-bottom: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    color: #fff;
+}
+
+.about {
+    background-color: #1e1e1e;
 }
 
 .contact {
     background-color: #222;
-    padding: 20px;
-    border-radius: 10px;
-    margin-bottom: 20px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
 }
 
 .footer {
     background-color: #333;
     padding: 20px 0;
     text-align: center;
+    color: #fff;
 }
 
 .list {
@@ -88,20 +88,41 @@ nav a {
     padding: 10px;
     border-radius: 5px;
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+    color: #fff;
 }
 
 .app {
-    background-color: #111;
+    background-color: #1e1e1e;
     padding: 10px;
     border-radius: 5px;
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+    color: #fff;
 }
 
-/* Style links for a sci-fi feel */
-a {
-    transition: color 0.3s;
-}
-
+/* Add a hover effect for links */
 a:hover {
     color: #00ffcc;
+}
+
+/* Center the header text and increase font size */
+.head h1 {
+    font-size: 48px;
+}
+
+/* Style the navigation links with a subtle underline on hover */
+nav a:hover {
+    text-decoration: underline;
+}
+
+/* Style the footer links */
+.footer a {
+    color: #00ffcc;
+    text-decoration: none;
+    margin: 0 10px;
+    font-weight: bold;
+}
+
+/* Add some spacing between the footer links */
+.footer a:not(:last-child) {
+    margin-right: 20px;
 }

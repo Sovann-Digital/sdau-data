@@ -105,7 +105,8 @@
           },
           {
             "name": "ភូមិចំការល្មុត",
-            "command": "Chamkar_Lmut"
+            "command": "Chamkar_Lmut",
+            "Services": []
           },
           {
             "name": "ភូមិបឹងអំពិល",
@@ -135,7 +136,47 @@
         ]
       },
       {
-        "name": "ឃុំអណ្ដើកហែប"
+        "name": "ឃុំអណ្ដើកហែប",
+        "villages": [
+          {
+            "name":"ភូមិអណ្តើកហែប",
+            "command": "Hurricane",
+            "Services": [
+              {
+                  "name": "មេឃុំ អណ្តើកហែប(👨‍⚖️)",
+                  "command": "Hurricane_mayor",
+                  "phone": {
+                      "hotline": {
+                          "ស្មាត": "0883325699"
+                      },
+                      "telegram": ""
+                  },
+                  "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png",
+                  "location": {
+                      "latitude": 11.5560,
+                      "longitude": 104.9282,
+                      "address": "ភូមិអណ្តើកហែប ឃុំអណ្តើកហែប ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង"
+                  }
+              },
+              {
+                  "name": "មេភូមិ អណ្តើកហែប(👨‍⚖️)",
+                  "command": "Hurricane_chief",
+                  "phone": {
+                      "hotline": {
+                          "ស្មាត": "066329783"
+                      },
+                      "telegram": ""
+                  },
+                  "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_village.png",
+                  "location": {
+                      "latitude": 11.5560,
+                      "longitude": 104.9282,
+                      "address": "ភូមិអណ្តើកហែប ឃុំអណ្តើកហែប ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង"
+                  }
+              }
+            ]
+          }
+        ]
       },
       {
         "name": "ឃុំផ្លូវមាស"

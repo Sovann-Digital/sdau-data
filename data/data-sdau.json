@@ -101,37 +101,163 @@
           {
             "name": "ភូមិបាណង់",
             "command": "Banang",
-            "Services": []
+            "Services": [
+              {
+                "name": "មេឃុំ ស្ដៅ(👨‍⚖️)",
+                "command": "sdau_mayor",
+                "phone": {
+                    "hotline": {
+                        "ស្មាត": "0976027878",
+                        "ស៊ែលខាត": "012270878"
+                    },
+                    "telegram": "​"
+                },
+                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png",
+                "location": {
+                    "latitude": 11.5560,
+                    "longitude": 104.9282,
+                    "address": "ភូមិស្ដៅ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង"
+                }
+            }
+            ]
           },
           {
             "name": "ភូមិចំការល្មុត",
             "command": "Chamkar_Lmut",
-            "Services": []
+            "Services": [
+              {
+                "name": "មេឃុំ ស្ដៅ(👨‍⚖️)",
+                "command": "sdau_mayor",
+                "phone": {
+                    "hotline": {
+                        "ស្មាត": "0976027878",
+                        "ស៊ែលខាត": "012270878"
+                    },
+                    "telegram": "​"
+                },
+                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png",
+                "location": {
+                    "latitude": 11.5560,
+                    "longitude": 104.9282,
+                    "address": "ភូមិស្ដៅ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង"
+                }
+              }
+            ]
           },
           {
             "name": "ភូមិបឹងអំពិល",
             "command": "Boeng_Ampil",
-            "Services": []
+            "Services": [
+              {
+                "name": "មេឃុំ ស្ដៅ(👨‍⚖️)",
+                "command": "sdau_mayor",
+                "phone": {
+                    "hotline": {
+                        "ស្មាត": "0976027878",
+                        "ស៊ែលខាត": "012270878"
+                    },
+                    "telegram": "​"
+                },
+                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png",
+                "location": {
+                    "latitude": 11.5560,
+                    "longitude": 104.9282,
+                    "address": "ភូមិស្ដៅ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង"
+                }
+            }
+            ]
           },
           {
             "name": "ភូមិដង្គត់",
             "command": "Dangkot",
-            "Services": []
+            "Services": [
+              {
+                "name": "មេឃុំ ស្ដៅ(👨‍⚖️)",
+                "command": "sdau_mayor",
+                "phone": {
+                    "hotline": {
+                        "ស្មាត": "0976027878",
+                        "ស៊ែលខាត": "012270878"
+                    },
+                    "telegram": "​"
+                },
+                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png",
+                "location": {
+                    "latitude": 11.5560,
+                    "longitude": 104.9282,
+                    "address": "ភូមិស្ដៅ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង"
+                }
+            }
+            ]
           },
           {
             "name": "ភូមិដូនមាយ",
             "command": "Doun_Meay",
-            "Services": []
+            "Services": [
+              {
+                "name": "មេឃុំ ស្ដៅ(👨‍⚖️)",
+                "command": "sdau_mayor",
+                "phone": {
+                    "hotline": {
+                        "ស្មាត": "0976027878",
+                        "ស៊ែលខាត": "012270878"
+                    },
+                    "telegram": "​"
+                },
+                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png",
+                "location": {
+                    "latitude": 11.5560,
+                    "longitude": 104.9282,
+                    "address": "ភូមិស្ដៅ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង"
+                }
+            },
+            ]
           },
           {
             "name": "ភូមិបរិបូរណ៌",
             "command": "Baribour",
-            "Services": []
+            "Services": [
+              {
+                "name": "មេឃុំ ស្ដៅ(👨‍⚖️)",
+                "command": "sdau_mayor",
+                "phone": {
+                    "hotline": {
+                        "ស្មាត": "0976027878",
+                        "ស៊ែលខាត": "012270878"
+                    },
+                    "telegram": "​"
+                },
+                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png",
+                "location": {
+                    "latitude": 11.5560,
+                    "longitude": 104.9282,
+                    "address": "ភូមិស្ដៅ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង"
+                }
+            }
+            ]
           },
           {
             "name": "ភូមិគោកជ័រ",
             "command": "Kouk_Choar",
-            "Services": []
+            "Services": [
+              {
+                "name": "មេឃុំ ស្ដៅ(👨‍⚖️)",
+                "command": "sdau_mayor",
+                "phone": {
+                    "hotline": {
+                        "ស្មាត": "0976027878",
+                        "ស៊ែលខាត": "012270878"
+                    },
+                    "telegram": "​"
+                },
+                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png",
+                "location": {
+                    "latitude": 11.5560,
+                    "longitude": 104.9282,
+                    "address": "ភូមិស្ដៅ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង"
+                }
+            }
+            ]
           }
         ]
       },

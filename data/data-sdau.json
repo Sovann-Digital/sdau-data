@@ -105,8 +105,7 @@
           },
           {
             "name": "ភូមិចំការល្មុត",
-            "command": "Chamkar_Lmut",
-            "Services": []
+            "command": "Chamkar_Lmut"
           },
           {
             "name": "ភូមិបឹងអំពិល",

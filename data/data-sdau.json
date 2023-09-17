@@ -95,42 +95,6 @@
                   "longitude": 104.9282,
                   "address": "ភូមិបាណង់ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង"
                 }
-              },
-              {
-                "name": "ឡានសង្គ្រោះបន្ទាន់(👨‍⚕️)",
-                "command": "ambulance_sdau",
-                "phone": {
-                  "hotline": {
-                          "ស្មាត": "+85516677462",
-                          "ស៊ែលខាត": "+85516677462",
-                          "មិតហ្វូន": "+85516677462"
-                      },
-                  "telegram": "@ambulance_sdau_bot"
-                },
-                "posterurl":"https://sovann-digital.github.io/sdau-data/images/hospital.png",
-                "location": {
-                  "latitude": 11.5560,
-                  "longitude": 104.9282,
-                  "address": "Ambulance Station, Sdau Village"
-                }
-              },
-              {
-                "name": "ឡានពន្លត់អគ្គីភ័យ(👨‍🚒)",
-                "command": "firefighter_sdau",
-                "phone": {
-                  "hotline": {
-                          "ស្មាត": "+85516677462",
-                          "ស៊ែលខាត": "+85516677462",
-                          "មិតហ្វូន": "+85516677462"
-                      },
-                  "telegram": "@ambulance_sdau_bot"
-                },
-                "posterurl":"https://sovann-digital.github.io/sdau-data/images/firefighter.png",
-                "location": {
-                  "latitude": 11.5560,
-                  "longitude": 104.9282,
-                  "address": "Ambulance Station, Sdau Village"
-                }
               }
             ]
           },

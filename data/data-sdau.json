@@ -17,12 +17,12 @@
                           "ស្មាត": "0976027878",
                           "ស៊ែលខាត": "012270878"
                       },
-                      "telegram": "​"
+                      "telegram": ""
                   },
                   "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png",
                   "location": {
-                      "latitude": 11.5560,
-                      "longitude": 104.9282,
+                      "latitude": 12.896294954050088,
+                      "longitude": 102.9767524532236,
                       "address": "ភូមិស្ដៅ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង"
                   }
               },
@@ -31,17 +31,15 @@
                   "command": "sdau_chief",
                   "phone": {
                       "hotline": {
-                          "ស្មាត": "+85516677462",
-                          "ស៊ែលខាត": "+85516677462",
-                          "មិតហ្វូន": "+85516677462"
+                          "ស្មាត": ""
                       },
-                      "telegram": "@ambulance_sdau_bot"
+                      "telegram": ""
                   },
                   "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_village.png",
                   "location": {
-                      "latitude": 11.5560,
-                      "longitude": 104.9282,
-                      "address": "Ambulance Station, Sdau Village"
+                      "latitude": 12.896294954050088,
+                      "longitude": 102.9767524532236,
+                      "address": "ភូមិស្ដៅ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង"
                   }
               },
               {
@@ -51,14 +49,15 @@
                   "hotline": {
                           "ស្មាត1": "092687171",
                           "ស្មាត2": "0979687171",
+                          "ស្មាត3 24ម៉ោង": "0977780139",
                           "ឥតគិតថ្លៃ": "117"
                       },
-                  "telegram": "@ambulance_sdau_bot"
+                  "telegram": "092687171"
                 },
                 "posterurl":"https://sovann-digital.github.io/sdau-data/images/police.png",
                 "location": {
-                  "latitude": 11.5560,
-                  "longitude": 104.9282,
+                  "latitude": 12.88987944966021, 
+                  "longitude": 102.97172087294237,
                   "address": "ភូមិបាណង់ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង"
                 }
               },
@@ -70,12 +69,12 @@
                           "ស្មាត": "0977780139",
                           "ឥតគិតថ្លៃ": "117"
                       },
-                  "telegram": "@ambulance_sdau_bot"
+                  "telegram": ""
                 },
                 "posterurl":"https://sovann-digital.github.io/sdau-data/images/police.png",
                 "location": {
-                  "latitude": 11.5560,
-                  "longitude": 104.9282,
+                  "latitude": 12.88987944966021, 
+                  "longitude": 102.97172087294237,
                   "address": "ភូមិបាណង់ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង"
                 }
               },
@@ -91,8 +90,8 @@
                 },
                 "posterurl":"https://sovann-digital.github.io/sdau-data/images/police.png",
                 "location": {
-                  "latitude": 11.5560,
-                  "longitude": 104.9282,
+                  "latitude": 12.89534590686165,
+                  "longitude": 102.97594222625128,
                   "address": "ភូមិបាណង់ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង"
                 }
               }

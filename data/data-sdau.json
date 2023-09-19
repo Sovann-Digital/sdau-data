@@ -79,19 +79,67 @@
                 }
               },
               {
+                "name": "សេនាធិការ(👮‍♂️)",
+                "command": "applications_sdau",
+                "phone": {
+                  "hotline": {
+                    "ស្មាត": "092671672",
+                    "មិតហ្វូន": "081671672"
+                  },
+                  "telegram": ""
+                },
+                "posterurl":"https://sovann-digital.github.io/sdau-data/images/police.png",
+                "location": {
+                  "latitude": 12.88987944966021, 
+                  "longitude": 102.97172087294237,
+                  "address": "ភូមិបាណង់ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង"
+                }
+              },
+              {
                 "name": "នាយប៉ុស្តិ៍នគរបាល ស្ដៅ(👮‍♂️)",
                 "command": "chiefpolice_sdau",
                 "phone": {
                   "hotline": {
-                          "ស៊ែលខាត": "077488757",
-                          "ឥតគិតថ្លៃ": "117"
-                      },
+                          "ស៊ែលខាត": "077488757"
+                        },
                   "telegram": ""
                 },
                 "posterurl":"https://sovann-digital.github.io/sdau-data/images/police.png",
                 "location": {
                   "latitude": 12.89534590686165,
                   "longitude": 102.97594222625128,
+                  "address": "ភូមិបាណង់ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង"
+                }
+              },
+              {
+                "name": "នគរបាលប្រឆាំងគ្រឿងញៀន(👮‍♂️)",
+                "command": "antidrug_sdau",
+                "phone": {
+                  "hotline": {
+                          "ស្មាត": "0885555406"
+                      },
+                  "telegram": ""
+                },
+                "posterurl":"https://sovann-digital.github.io/sdau-data/images/police.png",
+                "location": {
+                  "latitude": 12.88987944966021, 
+                  "longitude": 102.97172087294237,
+                  "address": "ភូមិបាណង់ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង"
+                }
+              },
+              {
+                "name": "នគរបាលសន្តិសុខ(👮‍♂️)",
+                "command": "security_sdau",
+                "phone": {
+                  "hotline": {
+                          "ស៊ែលខាត": "092212704"
+                      },
+                  "telegram": ""
+                },
+                "posterurl":"https://sovann-digital.github.io/sdau-data/images/police.png",
+                "location": {
+                  "latitude": 12.88987944966021, 
+                  "longitude": 102.97172087294237,
                   "address": "ភូមិបាណង់ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង"
                 }
               }
